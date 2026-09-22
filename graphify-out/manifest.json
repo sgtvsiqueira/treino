@@ -1,0 +1,176 @@
+{
+  ".claude/settings.local.json": {
+    "mtime": 1788195600.1724246,
+    "seen": 1788196633.1488745,
+    "ast_hash": "0a8031298f0e3990abf57a0c162a96b1",
+    "semantic_hash": "0a8031298f0e3990abf57a0c162a96b1"
+  },
+  "package.json": {
+    "mtime": 1788195599.876424,
+    "seen": 1788196633.1488814,
+    "ast_hash": "01e8f21c2b7e4493b567a9c5a2ac2860",
+    "semantic_hash": "01e8f21c2b7e4493b567a9c5a2ac2860"
+  },
+  "src/App.tsx": {
+    "mtime": 1788195600.2624247,
+    "seen": 1788196633.148884,
+    "ast_hash": "531839e6bf689a817ac05cfaf01caf1b",
+    "semantic_hash": "531839e6bf689a817ac05cfaf01caf1b"
+  },
+  "src/components/TreinoCard.tsx": {
+    "mtime": 1788195654.2585013,
+    "seen": 1788196633.1488853,
+    "ast_hash": "e2bc74997efe763a87c590634c2e133f",
+    "semantic_hash": "e2bc74997efe763a87c590634c2e133f"
+  },
+  "src/data/gifs.ts": {
+    "mtime": 1788195658.1185067,
+    "seen": 1788196633.1488864,
+    "ast_hash": "380b97cc78ea03d88be5c69bf656e47c",
+    "semantic_hash": "380b97cc78ea03d88be5c69bf656e47c"
+  },
+  "src/data/treinos.ts": {
+    "mtime": 1788195658.1165066,
+    "seen": 1788196633.1488876,
+    "ast_hash": "7bc777400963f49ea29522873dfe62a4",
+    "semantic_hash": "7bc777400963f49ea29522873dfe62a4"
+  },
+  "src/main.tsx": {
+    "mtime": 1788195600.2684247,
+    "seen": 1788196633.1488883,
+    "ast_hash": "a3150907ddf2842367caa98e12a33298",
+    "semantic_hash": "a3150907ddf2842367caa98e12a33298"
+  },
+  "tsconfig.json": {
+    "mtime": 1788195599.902424,
+    "seen": 1788196633.148889,
+    "ast_hash": "ec4ef92222b0c85ceda55ebb15f86900",
+    "semantic_hash": "ec4ef92222b0c85ceda55ebb15f86900"
+  },
+  "vite.config.ts": {
+    "mtime": 1788195599.9034243,
+    "seen": 1788196633.1488898,
+    "ast_hash": "9bf09b6d97edba4eebf0fe93baaad662",
+    "semantic_hash": "9bf09b6d97edba4eebf0fe93baaad662"
+  },
+  "CLAUDE.md": {
+    "mtime": 1788195599.8704243,
+    "seen": 1788196633.148891,
+    "ast_hash": "89b8e30577d5ec69b4610fcc05546889",
+    "semantic_hash": "89b8e30577d5ec69b4610fcc05546889"
+  },
+  "Treinos/Karla/treino-08-03-2026.md": {
+    "mtime": 1788195624.1864588,
+    "seen": 1788196633.1488917,
+    "ast_hash": "ed47a37a557ed378afb280e2e24d829c",
+    "semantic_hash": "ed47a37a557ed378afb280e2e24d829c"
+  },
+  "Treinos/Karla/treino-14-07-2026-v2-revisado.md": {
+    "mtime": 1788195626.2494617,
+    "seen": 1788196633.1488926,
+    "ast_hash": "55cc759dbacc0800e2b9cee1424e674f",
+    "semantic_hash": "55cc759dbacc0800e2b9cee1424e674f"
+  },
+  "Treinos/Karla/treino-14-07-2026.md": {
+    "mtime": 1788195627.6174636,
+    "seen": 1788196633.1488934,
+    "ast_hash": "d0b2bb31dac49566851350e213d57c36",
+    "semantic_hash": "d0b2bb31dac49566851350e213d57c36"
+  },
+  "Treinos/Karla/treino-15-05-2026.md": {
+    "mtime": 1788195627.6164637,
+    "seen": 1788196633.1488943,
+    "ast_hash": "e053aa388857a1c3edf402675fac344e",
+    "semantic_hash": "e053aa388857a1c3edf402675fac344e"
+  },
+  "Treinos/Karla/treino-31-04-2026.md": {
+    "mtime": 1788195627.6144636,
+    "seen": 1788196633.148895,
+    "ast_hash": "c2dc40c84c798a525b3984e91ddcc513",
+    "semantic_hash": "c2dc40c84c798a525b3984e91ddcc513"
+  },
+  "index.html": {
+    "mtime": 1788195599.8724241,
+    "seen": 1788196633.148896,
+    "ast_hash": "d27130cf43ef2de4b6fb661fa3367aea",
+    "semantic_hash": "d27130cf43ef2de4b6fb661fa3367aea"
+  },
+  "public/gifs/Ab-Wheel-Rollout.gif": {
+    "mtime": 1788195601.5254266,
+    "seen": 1788196633.1488965,
+    "ast_hash": "81c6ac9bf4e3de344451a42286cb89be",
+    "semantic_hash": "81c6ac9bf4e3de344451a42286cb89be"
+  },
+  "public/gifs/Barbell-Hip-Thrust.gif": {
+    "mtime": 1788195664.5975158,
+    "seen": 1788196633.1488976,
+    "ast_hash": "f96595d8990e81472452ab65ae227ff8",
+    "semantic_hash": "f96595d8990e81472452ab65ae227ff8"
+  },
+  "public/gifs/Barbell-Romanian-Deadlift.gif": {
+    "mtime": 1788195607.9214356,
+    "seen": 1788196633.1488986,
+    "ast_hash": "bc9f0b76bd71896e44ba76c7a8db1455",
+    "semantic_hash": "bc9f0b76bd71896e44ba76c7a8db1455"
+  },
+  "public/gifs/Cable-Donkey-Kickback.gif": {
+    "mtime": 1788195665.5425172,
+    "seen": 1788196633.1488993,
+    "ast_hash": "dff02169d4b40b7b5df0f8c80b17e115",
+    "semantic_hash": "dff02169d4b40b7b5df0f8c80b17e115"
+  },
+  "public/gifs/Dumbbell-Bulgarian-Split-Squat.gif": {
+    "mtime": 1788195610.0454388,
+    "seen": 1788196633.1489,
+    "ast_hash": "b57f76fb76b2f768f1e4bcdf18c2bfce",
+    "semantic_hash": "b57f76fb76b2f768f1e4bcdf18c2bfce"
+  },
+  "public/gifs/Goblet-Squat.gif": {
+    "mtime": 1788195615.755447,
+    "seen": 1788196633.1489007,
+    "ast_hash": "d62b9b4c947a59d8ee864f345ba9f5e4",
+    "semantic_hash": "d62b9b4c947a59d8ee864f345ba9f5e4"
+  },
+  "public/gifs/Hanging-Leg-Raise.gif": {
+    "mtime": 1788195624.1844587,
+    "seen": 1788196633.1489022,
+    "ast_hash": "2186e7a33fda75a9ff3f1f2a8eef435a",
+    "semantic_hash": "2186e7a33fda75a9ff3f1f2a8eef435a"
+  },
+  "public/gifs/Lateral-Band-Walk.gif": {
+    "mtime": 1788195671.4315252,
+    "seen": 1788196633.148903,
+    "ast_hash": "c89ae09de478583e928dff933e790c23",
+    "semantic_hash": "c89ae09de478583e928dff933e790c23"
+  },
+  "public/gifs/Leg-Extension.gif": {
+    "mtime": 1788195672.695527,
+    "seen": 1788196633.1489036,
+    "ast_hash": "db3638759c5a5145d1ed9738a0644e9b",
+    "semantic_hash": "db3638759c5a5145d1ed9738a0644e9b"
+  },
+  "public/gifs/Plank.gif": {
+    "mtime": 1788195623.3044577,
+    "seen": 1788196633.1489046,
+    "ast_hash": "32c933b1d094e0dcc49140dc823a6552",
+    "semantic_hash": "32c933b1d094e0dcc49140dc823a6552"
+  },
+  "public/gifs/Reverse-Lunge.gif": {
+    "mtime": 1788195625.14246,
+    "seen": 1788196633.1489053,
+    "ast_hash": "17253a9b60274b23826a3f8cc49c4010",
+    "semantic_hash": "17253a9b60274b23826a3f8cc49c4010"
+  },
+  "public/gifs/Skull-Crusher.gif": {
+    "mtime": 1788195673.9305289,
+    "seen": 1788196633.148906,
+    "ast_hash": "2b22905614256e610257662a2ea92635",
+    "semantic_hash": "2b22905614256e610257662a2ea92635"
+  },
+  "public/gifs/Wide-Grip-Lat-Pulldown.gif": {
+    "mtime": 1788195674.9705303,
+    "seen": 1788196633.1489067,
+    "ast_hash": "2f774d8db45e891762efac19b9aa99b8",
+    "semantic_hash": "2f774d8db45e891762efac19b9aa99b8"
+  }
+}
