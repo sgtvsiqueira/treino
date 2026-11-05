@@ -6,9 +6,9 @@
     "semantic_hash": "01e8f21c2b7e4493b567a9c5a2ac2860"
   },
   "src/App.tsx": {
-    "mtime": 1793890186.8774238,
-    "seen": 1793890259.7927482,
-    "ast_hash": "effb0a0654889ce0a5471b2fa7ca2b29",
+    "mtime": 1793890514.7461429,
+    "seen": 1793890537.772199,
+    "ast_hash": "47d3df028a81d1f325054b7235dbd9cb",
     "semantic_hash": ""
   },
   "src/components/TreinoCard.tsx": {
@@ -24,9 +24,9 @@
     "semantic_hash": ""
   },
   "src/data/treinos.ts": {
-    "mtime": 1793890175.9033928,
-    "seen": 1793890259.7927563,
-    "ast_hash": "4b9f8b900f76a3d814b20bfcee4c4993",
+    "mtime": 1793890514.745143,
+    "seen": 1793890537.7722151,
+    "ast_hash": "d5547e21346b4fa341cb23d85be2ac0e",
     "semantic_hash": ""
   },
   "src/main.tsx": {
@@ -174,9 +174,9 @@
     "semantic_hash": ""
   },
   "Treinos/Karla/treino-09-11-2026.md": {
-    "mtime": 1793890215.4865017,
-    "seen": 1793890259.7927682,
-    "ast_hash": "903bde7631347146718d536e2ae6d40a",
+    "mtime": 1793890530.80917,
+    "seen": 1793890537.7722378,
+    "ast_hash": "b01bd4af6f8e7b11fbd35d3a0aad119a",
     "semantic_hash": ""
   },
   "Treinos/Karla/treino-31-08-2026.md": {
@@ -192,9 +192,9 @@
     "semantic_hash": ""
   },
   "claudedocs/02 - 2026-11-05-plano-6-meses-karla.md": {
-    "mtime": 1793890243.7905755,
-    "seen": 1793890259.7927768,
-    "ast_hash": "8ebdac09581aa7aeaf74fd00e39915af",
+    "mtime": 1793890530.8131702,
+    "seen": 1793890537.7722592,
+    "ast_hash": "62782125fa9017d0a8e5dc6289f69625",
     "semantic_hash": ""
   },
   "public/gifs/Arnold-Press.gif": {

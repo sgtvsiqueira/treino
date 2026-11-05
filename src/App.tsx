@@ -26,7 +26,8 @@ export default function App() {
       </header>
 
       <div className="legend-bar">
-        <strong>Dupla progressão</strong> — mesma carga em todas as séries, dentro da faixa de reps; fechou o topo da faixa em todas as séries, suba a carga. Todas as séries a 1–3 reps da falha (última a 0–1).<br />
+        <strong>Compostos: pirâmide curta</strong> (ex.: 12-10-8) — suba a carga a cada série, todas a 1–2 reps da falha; fez a pirâmide com folga, suba a carga de todas as séries na semana seguinte.<br />
+        <strong>Máquinas e isolados: mesma carga</strong> nas séries, dentro da faixa de reps; fechou o topo da faixa em todas, suba a carga.<br />
         <strong>Semana 09–15/11 = deload</strong> — faça metade das séries com 20–30% menos carga. A Fase 1 começa em 16/11.
       </div>
 

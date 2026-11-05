@@ -8,7 +8,7 @@
 - O plano tem 5 fases de 4 semanas de treino + 1 de deload (semana leve para recuperar). As fases alternam volume alto, carga pesada e volume alto de novo.
 - Quatro exercícios-âncora ficam fixos os 6 meses inteiros, para dar para subir carga: Hip Thrust, Terra Romeno, Agachamento Livre e Búlgaro. Os acessórios mudam a cada fase.
 - Os treinos são 4 dias de perna e 1–2 dias curtos de superiores, que só mantêm o que ela já tem.
-- A progressão é a **dupla progressão**: quando ela fecha o topo da faixa de repetições em todas as séries, sobe a carga.
+- A progressão é em **pirâmide curta** nos exercícios compostos (sobe a carga a cada série, todas perto da falha) e em **dupla progressão** nas máquinas (mesma carga; quando fecha o topo da faixa de reps em todas as séries, sobe a carga).
 - Ela mede a cada 4 semanas (fita métrica, fotos e cargas) para saber se está funcionando.
 
 **Diagrama:**
@@ -47,7 +47,7 @@ flowchart LR
 ## 3. Regras fixas (os 6 meses inteiros)
 - **Máximo ~8 séries por músculo por sessão** (por causa da idade).
 - **Esforço:** todas as séries de trabalho a 1–3 RIR (repetições que ainda caberiam antes da falha). A última série de cada exercício fica a 0–1.
-- **Progressão:** dupla progressão dentro da faixa de reps da fase.
+- **Progressão:** nos compostos, pirâmide curta de 3–4 séries (ex.: 12-10-8), todas a 1–2 RIR. Pirâmide e carga fixa dão hipertrofia parecida quando as séries chegam perto da falha; a pirâmide foi escolhida por preferência e adesão. Nas máquinas e exercícios isolados, dupla progressão. As faixas de reps da tabela abaixo valem para as pirâmides de cada fase (ex.: Força = 8-6-4).
 - **Descanso:** ≥2–3' nos exercícios compostos com peso livre; 1–1'30" em máquinas e exercícios isolados.
 - **Amplitude:** completa, com ênfase no músculo alongado: agachamento profundo, búlgaro com déficit, flexora sentada e pausa embaixo na panturrilha.
 - **Como contar o volume:** conta só a série em que o músculo é o alvo principal do exercício. Agachamento e leg press contam para quadríceps; búlgaro, step-up e hip thrust contam para glúteo; terra romeno e good morning contam para posterior.
