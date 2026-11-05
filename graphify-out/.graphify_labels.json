@@ -1,1 +1,21 @@
-{"0": "Configuracao TypeScript", "1": "App React (dados e componentes)", "2": "Dependencias de build (dev)", "3": "package.json (metadados/scripts)", "4": "Dependencias React (runtime)", "5": "Bloco 14-07-2026 e GIFs", "6": "Treino 15-05-2026 e GIFs", "7": "Config lib TS (DOM/ES2020)", "8": "Treino 08-03-2026 e GIFs", "9": "Treino 31-04-2026 e GIF", "10": "CLAUDE.md (docs projeto)", "11": "index.html (entry point)", "12": "GIF Plank", "13": "GIF Reverse Lunge", "14": "GIF Skull Crusher", "15": "GIF Wide Grip Lat Pulldown", "16": "vite.config.ts"}
+{
+  "0": "compilerOptions",
+  "1": "treinos.ts",
+  "2": "devDependencies",
+  "3": "package.json",
+  "4": "Plano de 6 meses — Karla Terra (Glúteos e Pernas)",
+  "5": "Treino 14-07-2026 v2 Revisado",
+  "6": "Treino 15-05-2026",
+  "7": "Fase 1 — Base (16/11 → 20/12)",
+  "8": "Treino 08-03-2026",
+  "9": "Dumbbell Bulgarian Split Squat GIF",
+  "10": "CLAUDE.md",
+  "11": "index.html",
+  "12": "Plank Exercise Animation",
+  "13": "Reverse Lunge Exercise Animation",
+  "14": "Skull Crusher Exercise Animation",
+  "15": "Wide Grip Lat Pulldown Exercise Animation",
+  "16": "vite.config.ts",
+  "17": "Melhores livros para treinos de hipertrofia avançados",
+  "18": "Nova Ficha de Treino — Periodização Híbrida (Glúteo + Superiores fundidos + Core 3x)"
+}

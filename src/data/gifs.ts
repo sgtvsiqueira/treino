@@ -66,4 +66,11 @@ export const gifs = {
   plank: 'https://fitnessprogramer.com/wp-content/uploads/2021/02/plank.gif',
   reverseCrunch: 'https://fitnessprogramer.com/wp-content/uploads/2021/02/Reverse-Crunch-1.gif',
   pallofPress: 'https://fitnessprogramer.com/wp-content/uploads/2022/02/Cable-Half-Kneeling-Pallof-Press.gif',
+
+  // Fase 1 (09/11/2026): pernas completas + panturrilha
+  barbellSquat: 'https://fitnessprogramer.com/wp-content/uploads/2021/02/BARBELL-SQUAT.gif',
+  barbellGoodMorning: 'https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Good-Morning.gif',
+  seatedLegCurl: 'https://fitnessprogramer.com/wp-content/uploads/2021/08/Seated-Leg-Curl.gif',
+  standingCalfRaise: 'https://fitnessprogramer.com/wp-content/uploads/2021/06/Standing-Calf-Raise.gif',
+  seatedCalfRaise: 'https://fitnessprogramer.com/wp-content/uploads/2021/06/Lever-Seated-Calf-Raise.gif',
 }
