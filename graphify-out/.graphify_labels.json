@@ -1,6 +1,6 @@
 {
   "0": "compilerOptions",
-  "1": "treinos.ts",
+  "1": "App.tsx",
   "2": "devDependencies",
   "3": "package.json",
   "4": "Plano de 6 meses — Karla Terra (Glúteos e Pernas)",
@@ -17,5 +17,8 @@
   "15": "Wide Grip Lat Pulldown Exercise Animation",
   "16": "vite.config.ts",
   "17": "Melhores livros para treinos de hipertrofia avançados",
-  "18": "Nova Ficha de Treino — Periodização Híbrida (Glúteo + Superiores fundidos + Core 3x)"
+  "18": "Nova Ficha de Treino — Periodização Híbrida (Glúteo + Superiores fundidos + Core 3x)",
+  "19": "Rotina automática — montar a próxima fase do plano de 6 meses da Karla",
+  "20": "vercel.json",
+  "21": "vite-env.d.ts"
 }

@@ -1,22 +1,5 @@
 import { gifs } from './gifs'
-
-export interface Exercicio {
-  imgSrc: string
-  imgAlt: string
-  musculos: string
-  exercicio: string
-  series: number
-  repeticoes: string
-  intervalo: string
-  tecnica: string
-}
-
-export interface Treino {
-  id: string
-  titulo: string
-  subtitulo: string
-  exercicios: Exercicio[]
-}
+import type { Treino } from '../types'
 
 export const treinos: Treino[] = [
   {

@@ -1,0 +1,266 @@
+{
+  "package.json": {
+    "mtime": 1788195599.876424,
+    "seen": 1788196633.1488814,
+    "ast_hash": "01e8f21c2b7e4493b567a9c5a2ac2860",
+    "semantic_hash": "01e8f21c2b7e4493b567a9c5a2ac2860"
+  },
+  "src/App.tsx": {
+    "mtime": 1793890514.7461429,
+    "seen": 1793890537.772199,
+    "ast_hash": "47d3df028a81d1f325054b7235dbd9cb",
+    "semantic_hash": ""
+  },
+  "src/components/TreinoCard.tsx": {
+    "mtime": 1788195654.2585013,
+    "seen": 1788196633.1488853,
+    "ast_hash": "e2bc74997efe763a87c590634c2e133f",
+    "semantic_hash": "e2bc74997efe763a87c590634c2e133f"
+  },
+  "src/data/gifs.ts": {
+    "mtime": 1793890135.4642742,
+    "seen": 1793890259.7927547,
+    "ast_hash": "0c89697b6906daaa607a0f916330d955",
+    "semantic_hash": ""
+  },
+  "src/data/treinos.ts": {
+    "mtime": 1793890514.745143,
+    "seen": 1793890537.7722151,
+    "ast_hash": "d5547e21346b4fa341cb23d85be2ac0e",
+    "semantic_hash": ""
+  },
+  "src/main.tsx": {
+    "mtime": 1788195600.2684247,
+    "seen": 1788196633.1488883,
+    "ast_hash": "a3150907ddf2842367caa98e12a33298",
+    "semantic_hash": "a3150907ddf2842367caa98e12a33298"
+  },
+  "tsconfig.json": {
+    "mtime": 1788195599.902424,
+    "seen": 1788196633.148889,
+    "ast_hash": "ec4ef92222b0c85ceda55ebb15f86900",
+    "semantic_hash": "ec4ef92222b0c85ceda55ebb15f86900"
+  },
+  "vite.config.ts": {
+    "mtime": 1788195599.9034243,
+    "seen": 1788196633.1488898,
+    "ast_hash": "9bf09b6d97edba4eebf0fe93baaad662",
+    "semantic_hash": "9bf09b6d97edba4eebf0fe93baaad662"
+  },
+  "CLAUDE.md": {
+    "mtime": 1788195599.8704243,
+    "seen": 1788196633.148891,
+    "ast_hash": "89b8e30577d5ec69b4610fcc05546889",
+    "semantic_hash": "89b8e30577d5ec69b4610fcc05546889"
+  },
+  "Treinos/Karla/treino-08-03-2026.md": {
+    "mtime": 1788195624.1864588,
+    "seen": 1788196633.1488917,
+    "ast_hash": "ed47a37a557ed378afb280e2e24d829c",
+    "semantic_hash": "ed47a37a557ed378afb280e2e24d829c"
+  },
+  "Treinos/Karla/treino-14-07-2026-v2-revisado.md": {
+    "mtime": 1788195626.2494617,
+    "seen": 1788196633.1488926,
+    "ast_hash": "55cc759dbacc0800e2b9cee1424e674f",
+    "semantic_hash": "55cc759dbacc0800e2b9cee1424e674f"
+  },
+  "Treinos/Karla/treino-14-07-2026.md": {
+    "mtime": 1788195627.6174636,
+    "seen": 1788196633.1488934,
+    "ast_hash": "d0b2bb31dac49566851350e213d57c36",
+    "semantic_hash": "d0b2bb31dac49566851350e213d57c36"
+  },
+  "Treinos/Karla/treino-15-05-2026.md": {
+    "mtime": 1788195627.6164637,
+    "seen": 1788196633.1488943,
+    "ast_hash": "e053aa388857a1c3edf402675fac344e",
+    "semantic_hash": "e053aa388857a1c3edf402675fac344e"
+  },
+  "Treinos/Karla/treino-31-04-2026.md": {
+    "mtime": 1788195627.6144636,
+    "seen": 1788196633.148895,
+    "ast_hash": "c2dc40c84c798a525b3984e91ddcc513",
+    "semantic_hash": "c2dc40c84c798a525b3984e91ddcc513"
+  },
+  "index.html": {
+    "mtime": 1788195599.8724241,
+    "seen": 1788196633.148896,
+    "ast_hash": "d27130cf43ef2de4b6fb661fa3367aea",
+    "semantic_hash": "d27130cf43ef2de4b6fb661fa3367aea"
+  },
+  "public/gifs/Ab-Wheel-Rollout.gif": {
+    "mtime": 1788195601.5254266,
+    "seen": 1788196633.1488965,
+    "ast_hash": "81c6ac9bf4e3de344451a42286cb89be",
+    "semantic_hash": "81c6ac9bf4e3de344451a42286cb89be"
+  },
+  "public/gifs/Barbell-Hip-Thrust.gif": {
+    "mtime": 1788195664.5975158,
+    "seen": 1788196633.1488976,
+    "ast_hash": "f96595d8990e81472452ab65ae227ff8",
+    "semantic_hash": "f96595d8990e81472452ab65ae227ff8"
+  },
+  "public/gifs/Barbell-Romanian-Deadlift.gif": {
+    "mtime": 1788195607.9214356,
+    "seen": 1788196633.1488986,
+    "ast_hash": "bc9f0b76bd71896e44ba76c7a8db1455",
+    "semantic_hash": "bc9f0b76bd71896e44ba76c7a8db1455"
+  },
+  "public/gifs/Cable-Donkey-Kickback.gif": {
+    "mtime": 1788195665.5425172,
+    "seen": 1788196633.1488993,
+    "ast_hash": "dff02169d4b40b7b5df0f8c80b17e115",
+    "semantic_hash": "dff02169d4b40b7b5df0f8c80b17e115"
+  },
+  "public/gifs/Dumbbell-Bulgarian-Split-Squat.gif": {
+    "mtime": 1788195610.0454388,
+    "seen": 1788196633.1489,
+    "ast_hash": "b57f76fb76b2f768f1e4bcdf18c2bfce",
+    "semantic_hash": "b57f76fb76b2f768f1e4bcdf18c2bfce"
+  },
+  "public/gifs/Goblet-Squat.gif": {
+    "mtime": 1788195615.755447,
+    "seen": 1788196633.1489007,
+    "ast_hash": "d62b9b4c947a59d8ee864f345ba9f5e4",
+    "semantic_hash": "d62b9b4c947a59d8ee864f345ba9f5e4"
+  },
+  "public/gifs/Hanging-Leg-Raise.gif": {
+    "mtime": 1788195624.1844587,
+    "seen": 1788196633.1489022,
+    "ast_hash": "2186e7a33fda75a9ff3f1f2a8eef435a",
+    "semantic_hash": "2186e7a33fda75a9ff3f1f2a8eef435a"
+  },
+  "public/gifs/Lateral-Band-Walk.gif": {
+    "mtime": 1788195671.4315252,
+    "seen": 1788196633.148903,
+    "ast_hash": "c89ae09de478583e928dff933e790c23",
+    "semantic_hash": "c89ae09de478583e928dff933e790c23"
+  },
+  "public/gifs/Leg-Extension.gif": {
+    "mtime": 1788195672.695527,
+    "seen": 1788196633.1489036,
+    "ast_hash": "db3638759c5a5145d1ed9738a0644e9b",
+    "semantic_hash": "db3638759c5a5145d1ed9738a0644e9b"
+  },
+  "public/gifs/Plank.gif": {
+    "mtime": 1788195623.3044577,
+    "seen": 1788196633.1489046,
+    "ast_hash": "32c933b1d094e0dcc49140dc823a6552",
+    "semantic_hash": "32c933b1d094e0dcc49140dc823a6552"
+  },
+  "public/gifs/Reverse-Lunge.gif": {
+    "mtime": 1788195625.14246,
+    "seen": 1788196633.1489053,
+    "ast_hash": "17253a9b60274b23826a3f8cc49c4010",
+    "semantic_hash": "17253a9b60274b23826a3f8cc49c4010"
+  },
+  "public/gifs/Skull-Crusher.gif": {
+    "mtime": 1788195673.9305289,
+    "seen": 1788196633.148906,
+    "ast_hash": "2b22905614256e610257662a2ea92635",
+    "semantic_hash": "2b22905614256e610257662a2ea92635"
+  },
+  "public/gifs/Wide-Grip-Lat-Pulldown.gif": {
+    "mtime": 1788195674.9705303,
+    "seen": 1788196633.1489067,
+    "ast_hash": "2f774d8db45e891762efac19b9aa99b8",
+    "semantic_hash": "2f774d8db45e891762efac19b9aa99b8"
+  },
+  ".serena/project.yml": {
+    "mtime": 1788198630.809058,
+    "seen": 1793890259.7927635,
+    "ast_hash": "a9e920c64f798b9f1a0745eca837c56f",
+    "semantic_hash": ""
+  },
+  "Treinos/Karla/treino-09-11-2026.md": {
+    "mtime": 1793890530.80917,
+    "seen": 1793890537.7722378,
+    "ast_hash": "b01bd4af6f8e7b11fbd35d3a0aad119a",
+    "semantic_hash": ""
+  },
+  "Treinos/Karla/treino-31-08-2026.md": {
+    "mtime": 1788197628.3318322,
+    "seen": 1793890259.7927747,
+    "ast_hash": "152e60a6df8556aee3fcde6288a265f4",
+    "semantic_hash": ""
+  },
+  "claudedocs/01 - 2026-11-02-livros-hipertrofia-avancada.md": {
+    "mtime": 1793654350.5447001,
+    "seen": 1793890259.7927759,
+    "ast_hash": "67c5a28c3d1690a4095f5097174acb8c",
+    "semantic_hash": ""
+  },
+  "claudedocs/02 - 2026-11-05-plano-6-meses-karla.md": {
+    "mtime": 1793890530.8131702,
+    "seen": 1793890537.7722592,
+    "ast_hash": "62782125fa9017d0a8e5dc6289f69625",
+    "semantic_hash": ""
+  },
+  "public/gifs/Arnold-Press.gif": {
+    "mtime": 1788195602.572428,
+    "seen": 1793890259.7927806,
+    "ast_hash": "38c37796fea05db4570bddb47e612e65",
+    "semantic_hash": ""
+  },
+  "public/gifs/Barbell-Deadlift.gif": {
+    "mtime": 1788195604.5534308,
+    "seen": 1793890259.7927816,
+    "ast_hash": "07485c73c14b3d6b8aabf9b049e287c4",
+    "semantic_hash": ""
+  },
+  "public/gifs/Cable-Crunch.gif": {
+    "mtime": 1788195605.5384324,
+    "seen": 1793890259.7927847,
+    "ast_hash": "f356f9c7af3c3f0c5d75fa1ec92c2ad2",
+    "semantic_hash": ""
+  },
+  "public/gifs/Cable-Hip-Abduction.gif": {
+    "mtime": 1788195666.3415182,
+    "seen": 1793890259.7927866,
+    "ast_hash": "22fba077b0f4924a75e0678f9fd8a9e5",
+    "semantic_hash": ""
+  },
+  "public/gifs/Cable-Hips-Adduction.gif": {
+    "mtime": 1788195667.0695193,
+    "seen": 1793890259.7927876,
+    "ast_hash": "0ca2973522ae7b67dc94edef3c66b0fa",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Lateral-Raise.gif": {
+    "mtime": 1788195669.2875223,
+    "seen": 1793890259.7927895,
+    "ast_hash": "87d391ac5211201af518e256811e6d73",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Row.gif": {
+    "mtime": 1788195668.422521,
+    "seen": 1793890259.79279,
+    "ast_hash": "97faa7b3ef677bf78e919794ca236a9d",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Sumo-Squat.gif": {
+    "mtime": 1788195618.4854507,
+    "seen": 1793890259.7927911,
+    "ast_hash": "86162fb60e935503d190ac34fac9c230",
+    "semantic_hash": ""
+  },
+  "public/gifs/Glute-Bridge.gif": {
+    "mtime": 1788195670.3335238,
+    "seen": 1793890259.792792,
+    "ast_hash": "e287eefcc24ead193f225dde2ce3a968",
+    "semantic_hash": ""
+  },
+  "public/gifs/Hammer-Curl.gif": {
+    "mtime": 1788195617.0084486,
+    "seen": 1793890259.7927938,
+    "ast_hash": "5b678654fbfc266b08c32728d617d80c",
+    "semantic_hash": ""
+  },
+  "public/gifs/Leg-Curl.gif": {
+    "mtime": 1788195621.600455,
+    "seen": 1793890259.792798,
+    "ast_hash": "1404d47cd8a0da0a00969d3ee16b47b4",
+    "semantic_hash": ""
+  }
+}

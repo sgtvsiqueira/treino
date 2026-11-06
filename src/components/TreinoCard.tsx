@@ -1,4 +1,4 @@
-import type { Treino } from '../data/treinos'
+import type { Treino } from '../data/types'
 
 interface Props {
   treino: Treino

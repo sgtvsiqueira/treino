@@ -1,45 +1,25 @@
-import TreinoCard from './components/TreinoCard'
-import { treinos } from './data/treinos'
+import Karla from './pages/Karla'
+import Vinicius from './pages/Vinicius'
+
+const paginas = [
+  { caminho: '/', nome: 'Karla', Pagina: Karla },
+  { caminho: '/vinicius', nome: 'Vinicius', Pagina: Vinicius },
+]
 
 export default function App() {
+  const atual = window.location.pathname.replace(/\/+$/, '') || '/'
+  const pagina = paginas.find((p) => p.caminho === atual) ?? paginas[0]
+
   return (
     <>
-      <header className="header">
-        <div className="header-inner">
-          <div className="prog-title">
-            Periodização<br />
-            <span>Glúteos & Pernas</span>
-          </div>
-          <div className="student-row">
-            <div className="student-name">Karla Terra</div>
-            <div className="sep">·</div>
-            <div className="header-meta">Fase 1 · Base · 16/11 → 20/12/2026</div>
-            <div className="sep">·</div>
-            <div className="header-meta">Deloads: 09–15/11 e 21/12–03/01</div>
-          </div>
-          <div className="chips">
-            <span className="chip">5 dias + Qui opcional · Seg a Sáb</span>
-            <span className="chip hi">Pernas 4x · Glúteo 4x · Superiores manutenção · Core 2x</span>
-            <span className="chip">A · B · C · D · E · F</span>
-          </div>
-        </div>
-      </header>
-
-      <div className="legend-bar">
-        <strong>Compostos: pirâmide curta</strong> (ex.: 12-10-8) — suba a carga a cada série, todas a 1–2 reps da falha; fez a pirâmide com folga, suba a carga de todas as séries na semana seguinte.<br />
-        <strong>Máquinas e isolados: mesma carga</strong> nas séries, dentro da faixa de reps; fechou o topo da faixa em todas, suba a carga.<br />
-        <strong>Semana 09–15/11 = deload</strong> — faça metade das séries com 20–30% menos carga. A Fase 1 começa em 16/11.
-      </div>
-
-      <main className="content">
-        {treinos.map((treino) => (
-          <TreinoCard key={treino.id} treino={treino} />
+      <nav className="site-nav">
+        {paginas.map((p) => (
+          <a key={p.caminho} href={p.caminho} className={p === pagina ? 'active' : undefined}>
+            {p.nome}
+          </a>
         ))}
-      </main>
-
-      <footer>
-        Ficha de Treino — <span>Karla Terra</span> · Plano de 6 meses · Fase 1 de 5 · 16/11 → 20/12/2026
-      </footer>
+      </nav>
+      <pagina.Pagina />
     </>
   )
 }

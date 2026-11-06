@@ -18,7 +18,7 @@ Fases de 4 semanas de treino. A progressão de volume dentro da fase acontece na
 1. `claudedocs/02 - 2026-11-05-plano-6-meses-karla.md`: regras fixas (seção 3) e **volume por fase** (seção 5). O volume da tabela é obrigatório.
 2. A ficha da fase anterior (o `treino-*.md` mais recente em `Treinos/Karla/`): base de estrutura, formato e exercícios.
 3. `.claude/skills/hipertrofia-skill/SKILL.md` e `cheatsheet.md`: princípios (Schoenfeld).
-4. `src/data/treinos.ts`, `src/data/gifs.ts`, `src/App.tsx`: formato do app.
+4. `src/data/karla/treinos.ts`, `src/data/karla/gifs.ts`, `src/data/types.ts`, `src/pages/Karla.tsx`: formato do app.
 
 ## Regras de montagem
 - **Mantenha a divisão:** A Seg Inferior A (glúteo + posterior + panturrilha), B Ter Superior completo + core, C Qua Inferior B (quadríceps + adutores + panturrilha), D Qui Superior curto opcional + core, E Sex Inferior C (glúteo + posterior unilateral), F Sáb Inferior D (quadríceps + glúteo médio + adutores + panturrilha).
@@ -31,12 +31,12 @@ Fases de 4 semanas de treino. A progressão de volume dentro da fase acontece na
 - **Core:** 2x/semana (B e D), 1 exercício de 3 séries em cada.
 
 ## Passos
-1. `cd /home/vinicius/Documentos/GitHub/treino_karla && git pull --ff-only`. Se o working tree não estiver limpo antes de começar, vá para "Se der errado".
+1. `cd /home/vinicius/Documentos/GitHub/treino && git pull --ff-only`. Se o working tree não estiver limpo antes de começar, vá para "Se der errado".
 2. Leia as fontes obrigatórias.
 3. Escreva a ficha nova (arquivo da tabela), no mesmo formato de `treino-09-11-2026.md`. Inclua: cabeçalho com fase e datas; aviso do deload em curso ("use os treinos abaixo com metade das séries e 20-30% menos carga até <fim do deload>"); regras de progressão; divisão da semana; volume semanal (semanas 1-2 → 3-4); tabelas dos treinos A–F; registro/medição; quando antecipar deload; alimentação.
-4. Para cada exercício novo, encontre o GIF em `fitnessprogramer.com` (página `https://fitnessprogramer.com/exercise/<slug>/`, extraia a URL `wp-content/uploads/...gif` sem sufixo `-NNNxNNN`) ou em `inspireusafoundation.org`. Valide com `curl -s -A "Mozilla/5.0" -o /dev/null -w "%{http_code} %{content_type}"`: precisa dar `200 image/gif`. Sem GIF válido, escolha outro exercício equivalente. Adicione as chaves novas em `src/data/gifs.ts` (não remova as existentes).
-5. Reescreva `src/data/treinos.ts` com os treinos A–F da fase. Mantenha as interfaces `Exercicio` e `Treino` intactas. Na `tecnica` de cada exercício que ganha série nas semanas 3-4, escreva "Sem. 3-4: ...".
-6. Atualize `src/App.tsx`: `header-meta` da fase ("Fase N · <Nome> · <início> → <fim>"), linha de deloads (deload em curso e o seguinte), chips, legenda (manter as regras de pirâmide e dupla progressão; atualizar a linha "Semana ... = deload ... A Fase N começa em ...") e rodapé ("Fase N de 5 · <início> → <fim>").
+4. Para cada exercício novo, encontre o GIF em `fitnessprogramer.com` (página `https://fitnessprogramer.com/exercise/<slug>/`, extraia a URL `wp-content/uploads/...gif` sem sufixo `-NNNxNNN`) ou em `inspireusafoundation.org`. Valide com `curl -s -A "Mozilla/5.0" -o /dev/null -w "%{http_code} %{content_type}"`: precisa dar `200 image/gif`. Sem GIF válido, escolha outro exercício equivalente. Adicione as chaves novas em `src/data/karla/gifs.ts` (não remova as existentes).
+5. Reescreva `src/data/karla/treinos.ts` com os treinos A–F da fase. Mantenha as interfaces `Exercicio` e `Treino` (em `src/data/types.ts`) intactas. Na `tecnica` de cada exercício que ganha série nas semanas 3-4, escreva "Sem. 3-4: ...".
+6. Atualize `src/pages/Karla.tsx`: `header-meta` da fase ("Fase N · <Nome> · <início> → <fim>"), linha de deloads (deload em curso e o seguinte), chips, legenda (manter as regras de pirâmide e dupla progressão; atualizar a linha "Semana ... = deload ... A Fase N começa em ...") e rodapé ("Fase N de 5 · <início> → <fim>").
 7. No `claudedocs/02 ...`, seção 6, acrescente uma linha: "Fase N montada automaticamente em <data de hoje>: `Treinos/Karla/<arquivo>`".
 8. `npm run build`. Precisa terminar sem erro.
 9. `graphify update .` (pode falhar sem bloquear).
@@ -51,5 +51,5 @@ Fases de 4 semanas de treino. A progressão de volume dentro da fase acontece na
 
 ## Se der errado
 Não faça push de nada quebrado. Não use `git reset --hard`, `git checkout .` nem apague arquivos. Envie pelo WhatsApp:
-`~/scripts/whatsapp-send.sh texto "ALERTA Treino Karla: a montagem automatica da Fase N parou no passo <X>: <motivo em 1-2 linhas>. Nada foi publicado. Abra o Claude no projeto treino_karla para resolver."`
+`~/scripts/whatsapp-send.sh texto "ALERTA Treino Karla: a montagem automatica da Fase N parou no passo <X>: <motivo em 1-2 linhas>. Nada foi publicado. Abra o Claude no projeto treino para resolver."`
 Se o problema aparecer depois do push (deploy falhou ou o site não mostra a fase), mande o mesmo ALERTA dizendo que o commit foi enviado mas o site não atualizou.

@@ -230,3 +230,31 @@ footer {
   letter-spacing: 0.3px;
 }
 footer span { color: var(--accent); }
+
+.site-nav {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 8px 16px;
+}
+
+.site-nav a {
+  padding: 4px 14px;
+  border-radius: 999px;
+  text-decoration: none;
+  color: inherit;
+  opacity: 0.6;
+  font-size: 0.9rem;
+}
+
+.site-nav a.active {
+  opacity: 1;
+  font-weight: 600;
+  outline: 1px solid currentColor;
+}
+
+.empty-state {
+  text-align: center;
+  opacity: 0.7;
+  padding: 48px 16px;
+}

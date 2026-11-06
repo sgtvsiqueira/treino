@@ -42,37 +42,37 @@
       "_callable_class": true,
       "_origin": "ast",
       "community": 1,
-      "community_name": "treinos.ts",
+      "community_name": "App.tsx",
       "file_type": "code",
       "norm_label": "props",
       "source_file": "src/components/TreinoCard.tsx",
       "source_location": "L3"
     },
     {
-      "id": "src_data_treinos_exercicio",
+      "id": "src_data_types_exercicio",
       "label": "Exercicio",
       "_callable": true,
       "_callable_class": true,
       "_origin": "ast",
       "community": 1,
-      "community_name": "treinos.ts",
+      "community_name": "App.tsx",
       "file_type": "code",
       "norm_label": "exercicio",
-      "source_file": "src/data/treinos.ts",
-      "source_location": "L3"
+      "source_file": "src/data/types.ts",
+      "source_location": "L1"
     },
     {
-      "id": "src_data_treinos_treino",
+      "id": "src_data_types_treino",
       "label": "Treino",
       "_callable": true,
       "_callable_class": true,
       "_origin": "ast",
       "community": 1,
-      "community_name": "treinos.ts",
+      "community_name": "App.tsx",
       "file_type": "code",
       "norm_label": "treino",
-      "source_file": "src/data/treinos.ts",
-      "source_location": "L14"
+      "source_file": "src/data/types.ts",
+      "source_location": "L12"
     },
     {
       "id": "src_app_app",
@@ -80,11 +80,11 @@
       "_callable": true,
       "_origin": "ast",
       "community": 1,
-      "community_name": "treinos.ts",
+      "community_name": "App.tsx",
       "file_type": "code",
       "norm_label": "app()",
       "source_file": "src/App.tsx",
-      "source_location": "L4"
+      "source_location": "L9"
     },
     {
       "id": "src_components_treinocard_treinocard",
@@ -92,11 +92,35 @@
       "_callable": true,
       "_origin": "ast",
       "community": 1,
-      "community_name": "treinos.ts",
+      "community_name": "App.tsx",
       "file_type": "code",
       "norm_label": "treinocard()",
       "source_file": "src/components/TreinoCard.tsx",
       "source_location": "L7"
+    },
+    {
+      "id": "src_pages_karla_karla",
+      "label": "Karla()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "App.tsx",
+      "file_type": "code",
+      "norm_label": "karla()",
+      "source_file": "src/pages/Karla.tsx",
+      "source_location": "L4"
+    },
+    {
+      "id": "src_pages_vinicius_vinicius",
+      "label": "Vinicius()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "App.tsx",
+      "file_type": "code",
+      "norm_label": "vinicius()",
+      "source_file": "src/pages/Vinicius.tsx",
+      "source_location": "L4"
     },
     {
       "id": "tsconfig",
@@ -312,76 +336,142 @@
       "label": "App.tsx",
       "_origin": "ast",
       "community": 1,
-      "community_name": "treinos.ts",
+      "community_name": "App.tsx",
       "file_type": "code",
       "norm_label": "app.tsx",
       "source_file": "src/App.tsx",
       "source_location": "L1"
     },
     {
+      "id": "src_app_paginas",
+      "label": "paginas",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "App.tsx",
+      "file_type": "code",
+      "norm_label": "paginas",
+      "source_file": "src/App.tsx",
+      "source_location": "L4"
+    },
+    {
       "id": "src_components_treinocard",
       "label": "TreinoCard.tsx",
       "_origin": "ast",
       "community": 1,
-      "community_name": "treinos.ts",
+      "community_name": "App.tsx",
       "file_type": "code",
       "norm_label": "treinocard.tsx",
       "source_file": "src/components/TreinoCard.tsx",
       "source_location": "L1"
     },
     {
-      "id": "src_data_gifs",
+      "id": "src_data_karla_gifs",
       "label": "gifs.ts",
       "_origin": "ast",
       "community": 1,
-      "community_name": "treinos.ts",
+      "community_name": "App.tsx",
       "file_type": "code",
       "norm_label": "gifs.ts",
-      "source_file": "src/data/gifs.ts",
+      "source_file": "src/data/karla/gifs.ts",
       "source_location": "L1"
     },
     {
-      "id": "src_data_gifs_gifs",
+      "id": "src_data_karla_gifs_gifs",
       "label": "gifs",
       "_origin": "ast",
       "community": 1,
-      "community_name": "treinos.ts",
+      "community_name": "App.tsx",
       "file_type": "code",
       "norm_label": "gifs",
-      "source_file": "src/data/gifs.ts",
+      "source_file": "src/data/karla/gifs.ts",
       "source_location": "L1"
     },
     {
-      "id": "src_data_treinos",
-      "label": "treinos.ts",
+      "id": "src_data_karla_treinos",
+      "label": "karla/treinos.ts",
       "_origin": "ast",
       "community": 1,
-      "community_name": "treinos.ts",
+      "community_name": "App.tsx",
       "file_type": "code",
-      "norm_label": "treinos.ts",
-      "source_file": "src/data/treinos.ts",
+      "norm_label": "karla/treinos.ts",
+      "source_file": "src/data/karla/treinos.ts",
       "source_location": "L1"
     },
     {
-      "id": "src_data_treinos_treinos",
+      "id": "src_data_karla_treinos_treinos",
       "label": "treinos",
       "_origin": "ast",
       "community": 1,
-      "community_name": "treinos.ts",
+      "community_name": "App.tsx",
       "file_type": "code",
       "norm_label": "treinos",
-      "source_file": "src/data/treinos.ts",
-      "source_location": "L21"
+      "source_file": "src/data/karla/treinos.ts",
+      "source_location": "L4"
+    },
+    {
+      "id": "src_data_types",
+      "label": "types.ts",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "App.tsx",
+      "file_type": "code",
+      "norm_label": "types.ts",
+      "source_file": "src/data/types.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_data_vinicius_treinos",
+      "label": "vinicius/treinos.ts",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "App.tsx",
+      "file_type": "code",
+      "norm_label": "vinicius/treinos.ts",
+      "source_file": "src/data/vinicius/treinos.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_data_vinicius_treinos_treinos",
+      "label": "treinos",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "App.tsx",
+      "file_type": "code",
+      "norm_label": "treinos",
+      "source_file": "src/data/vinicius/treinos.ts",
+      "source_location": "L3"
     },
     {
       "id": "src_main",
       "label": "main.tsx",
       "_origin": "ast",
       "community": 1,
-      "community_name": "treinos.ts",
+      "community_name": "App.tsx",
       "file_type": "code",
       "norm_label": "main.tsx",
       "source_file": "src/main.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_pages_karla",
+      "label": "Karla.tsx",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "App.tsx",
+      "file_type": "code",
+      "norm_label": "karla.tsx",
+      "source_file": "src/pages/Karla.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_pages_vinicius",
+      "label": "Vinicius.tsx",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "App.tsx",
+      "file_type": "code",
+      "norm_label": "vinicius.tsx",
+      "source_file": "src/pages/Vinicius.tsx",
       "source_location": "L1"
     },
     {
@@ -600,6 +690,90 @@
       "source_location": "L115"
     },
     {
+      "id": "rotinas_rotina_montar_fase",
+      "label": "rotina-montar-fase.md",
+      "_origin": "ast",
+      "community": 19,
+      "community_name": "Rotina autom\u00e1tica \u2014 montar a pr\u00f3xima fase do plano de 6 meses da Karla",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "rotina-montar-fase.md",
+      "source_file": "rotinas/rotina-montar-fase.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "rotinas_rotina_montar_fase_dados_de_cada_fase",
+      "label": "Dados de cada fase",
+      "_origin": "ast",
+      "community": 19,
+      "community_name": "Rotina autom\u00e1tica \u2014 montar a pr\u00f3xima fase do plano de 6 meses da Karla",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "dados de cada fase",
+      "source_file": "rotinas/rotina-montar-fase.md",
+      "source_location": "L6"
+    },
+    {
+      "id": "rotinas_rotina_montar_fase_fontes_obrigat\u00f3rias_ler_antes_de_montar",
+      "label": "Fontes obrigat\u00f3rias (ler antes de montar)",
+      "_origin": "ast",
+      "community": 19,
+      "community_name": "Rotina autom\u00e1tica \u2014 montar a pr\u00f3xima fase do plano de 6 meses da Karla",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "fontes obrigatorias (ler antes de montar)",
+      "source_file": "rotinas/rotina-montar-fase.md",
+      "source_location": "L17"
+    },
+    {
+      "id": "rotinas_rotina_montar_fase_passos",
+      "label": "Passos",
+      "_origin": "ast",
+      "community": 19,
+      "community_name": "Rotina autom\u00e1tica \u2014 montar a pr\u00f3xima fase do plano de 6 meses da Karla",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "passos",
+      "source_file": "rotinas/rotina-montar-fase.md",
+      "source_location": "L33"
+    },
+    {
+      "id": "rotinas_rotina_montar_fase_regras_de_montagem",
+      "label": "Regras de montagem",
+      "_origin": "ast",
+      "community": 19,
+      "community_name": "Rotina autom\u00e1tica \u2014 montar a pr\u00f3xima fase do plano de 6 meses da Karla",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "regras de montagem",
+      "source_file": "rotinas/rotina-montar-fase.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "rotinas_rotina_montar_fase_rotina_autom\u00e1tica_montar_a_pr\u00f3xima_fase_do_plano_de_6_meses_da_karla",
+      "label": "Rotina autom\u00e1tica \u2014 montar a pr\u00f3xima fase do plano de 6 meses da Karla",
+      "_origin": "ast",
+      "community": 19,
+      "community_name": "Rotina autom\u00e1tica \u2014 montar a pr\u00f3xima fase do plano de 6 meses da Karla",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "rotina automatica \u2014 montar a proxima fase do plano de 6 meses da karla",
+      "source_file": "rotinas/rotina-montar-fase.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "rotinas_rotina_montar_fase_se_der_errado",
+      "label": "Se der errado",
+      "_origin": "ast",
+      "community": 19,
+      "community_name": "Rotina autom\u00e1tica \u2014 montar a pr\u00f3xima fase do plano de 6 meses da Karla",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "se der errado",
+      "source_file": "rotinas/rotina-montar-fase.md",
+      "source_location": "L52"
+    },
+    {
       "id": "package_devdependencies",
       "label": "devDependencies",
       "_origin": "ast",
@@ -719,6 +893,39 @@
       "norm_label": "@vitejs/plugin-react",
       "source_file": "package.json",
       "source_location": "L18"
+    },
+    {
+      "id": "vercel",
+      "label": "vercel.json",
+      "_origin": "ast",
+      "community": 20,
+      "community_name": "vercel.json",
+      "file_type": "code",
+      "norm_label": "vercel.json",
+      "source_file": "vercel.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "vercel_rewrites",
+      "label": "rewrites",
+      "_origin": "ast",
+      "community": 20,
+      "community_name": "vercel.json",
+      "file_type": "code",
+      "norm_label": "rewrites",
+      "source_file": "vercel.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "src_vite_env_d",
+      "label": "vite-env.d.ts",
+      "_origin": "ast",
+      "community": 21,
+      "community_name": "vite-env.d.ts",
+      "file_type": "code",
+      "norm_label": "vite-env.d.ts",
+      "source_file": "src/vite-env.d.ts",
+      "source_location": "L1"
     },
     {
       "id": "package",
@@ -1352,7 +1559,7 @@
   "links": [
     {
       "source": "src_components_treinocard_props",
-      "target": "src_data_treinos_treino",
+      "target": "src_data_types_treino",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -1495,32 +1702,8 @@
       "weight": 1.0
     },
     {
-      "source": "src_app",
-      "target": "src_components_treinocard_treinocard",
-      "relation": "imports",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "context": "import",
-      "source_file": "src/App.tsx",
-      "source_location": "L1",
-      "weight": 1.0
-    },
-    {
-      "source": "src_app",
-      "target": "src_data_treinos_treinos",
-      "relation": "imports",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "context": "import",
-      "source_file": "src/App.tsx",
-      "source_location": "L2",
-      "weight": 1.0
-    },
-    {
       "source": "src_components_treinocard",
-      "target": "src_data_treinos_treino",
+      "target": "src_data_types_treino",
       "relation": "imports",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -1531,14 +1714,38 @@
       "weight": 1.0
     },
     {
-      "source": "src_data_treinos",
-      "target": "src_data_gifs_gifs",
+      "source": "src_data_karla_treinos",
+      "target": "src_data_karla_gifs_gifs",
       "relation": "imports",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "context": "import",
-      "source_file": "src/data/treinos.ts",
+      "source_file": "src/data/karla/treinos.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_data_karla_treinos",
+      "target": "src_data_types_treino",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "src/data/karla/treinos.ts",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_data_vinicius_treinos",
+      "target": "src_data_types_treino",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "src/data/vinicius/treinos.ts",
       "source_location": "L1",
       "weight": 1.0
     },
@@ -1555,8 +1762,56 @@
       "weight": 1.0
     },
     {
+      "source": "src_pages_karla",
+      "target": "src_components_treinocard_treinocard",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "src/pages/Karla.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_karla",
+      "target": "src_data_karla_treinos_treinos",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "src/pages/Karla.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_vinicius",
+      "target": "src_components_treinocard_treinocard",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "src/pages/Vinicius.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_vinicius",
+      "target": "src_data_vinicius_treinos_treinos",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "src/pages/Vinicius.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
       "source": "src_app",
-      "target": "src_components_treinocard",
+      "target": "src_pages_karla",
       "relation": "imports_from",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -1568,7 +1823,7 @@
     },
     {
       "source": "src_app",
-      "target": "src_data_treinos",
+      "target": "src_pages_vinicius",
       "relation": "imports_from",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -1580,7 +1835,7 @@
     },
     {
       "source": "src_components_treinocard",
-      "target": "src_data_treinos",
+      "target": "src_data_types",
       "relation": "imports_from",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -1592,15 +1847,41 @@
       "weight": 1.0
     },
     {
-      "source": "src_data_treinos",
-      "target": "src_data_gifs",
+      "source": "src_data_karla_treinos",
+      "target": "src_data_karla_gifs",
       "relation": "imports_from",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "context": "import",
-      "source_file": "src/data/treinos.ts",
+      "source_file": "src/data/karla/treinos.ts",
       "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_data_karla_treinos",
+      "target": "src_data_types",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "src/data/karla/treinos.ts",
+      "source_location": "L2",
+      "type_only": true,
+      "weight": 1.0
+    },
+    {
+      "source": "src_data_vinicius_treinos",
+      "target": "src_data_types",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "src/data/vinicius/treinos.ts",
+      "source_location": "L1",
+      "type_only": true,
       "weight": 1.0
     },
     {
@@ -1613,6 +1894,54 @@
       "context": "import",
       "source_file": "src/main.tsx",
       "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_karla",
+      "target": "src_components_treinocard",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "src/pages/Karla.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_karla",
+      "target": "src_data_karla_treinos",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "src/pages/Karla.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_vinicius",
+      "target": "src_components_treinocard",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "src/pages/Vinicius.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_vinicius",
+      "target": "src_data_vinicius_treinos",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "src/pages/Vinicius.tsx",
+      "source_location": "L2",
       "weight": 1.0
     },
     {
@@ -2012,6 +2341,83 @@
       "weight": 1.0
     },
     {
+      "source": "rotinas_rotina_montar_fase",
+      "target": "rotinas_rotina_montar_fase_rotina_autom\u00e1tica_montar_a_pr\u00f3xima_fase_do_plano_de_6_meses_da_karla",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "rotinas/rotina-montar-fase.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "rotinas_rotina_montar_fase_rotina_autom\u00e1tica_montar_a_pr\u00f3xima_fase_do_plano_de_6_meses_da_karla",
+      "target": "rotinas_rotina_montar_fase_fontes_obrigat\u00f3rias_ler_antes_de_montar",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "rotinas/rotina-montar-fase.md",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "rotinas_rotina_montar_fase_rotina_autom\u00e1tica_montar_a_pr\u00f3xima_fase_do_plano_de_6_meses_da_karla",
+      "target": "rotinas_rotina_montar_fase_regras_de_montagem",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "rotinas/rotina-montar-fase.md",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "rotinas_rotina_montar_fase_rotina_autom\u00e1tica_montar_a_pr\u00f3xima_fase_do_plano_de_6_meses_da_karla",
+      "target": "rotinas_rotina_montar_fase_passos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "rotinas/rotina-montar-fase.md",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "rotinas_rotina_montar_fase_rotina_autom\u00e1tica_montar_a_pr\u00f3xima_fase_do_plano_de_6_meses_da_karla",
+      "target": "rotinas_rotina_montar_fase_se_der_errado",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "rotinas/rotina-montar-fase.md",
+      "source_location": "L52",
+      "weight": 1.0
+    },
+    {
+      "source": "rotinas_rotina_montar_fase_rotina_autom\u00e1tica_montar_a_pr\u00f3xima_fase_do_plano_de_6_meses_da_karla",
+      "target": "rotinas_rotina_montar_fase_dados_de_cada_fase",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "rotinas/rotina-montar-fase.md",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app",
+      "target": "src_app_paginas",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/App.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
       "source": "src_app",
       "target": "src_app_app",
       "relation": "contains",
@@ -2019,7 +2425,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "src/App.tsx",
-      "source_location": "L4",
+      "source_location": "L9",
       "weight": 1.0
     },
     {
@@ -2045,47 +2451,80 @@
       "weight": 1.0
     },
     {
-      "source": "src_data_gifs",
-      "target": "src_data_gifs_gifs",
+      "source": "src_data_karla_gifs",
+      "target": "src_data_karla_gifs_gifs",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "src/data/gifs.ts",
+      "source_file": "src/data/karla/gifs.ts",
       "source_location": "L1",
       "weight": 1.0
     },
     {
-      "source": "src_data_treinos",
-      "target": "src_data_treinos_treino",
+      "source": "src_data_karla_treinos",
+      "target": "src_data_karla_treinos_treinos",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "src/data/treinos.ts",
-      "source_location": "L14",
+      "source_file": "src/data/karla/treinos.ts",
+      "source_location": "L4",
       "weight": 1.0
     },
     {
-      "source": "src_data_treinos",
-      "target": "src_data_treinos_treinos",
+      "source": "src_data_types",
+      "target": "src_data_types_exercicio",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "src/data/treinos.ts",
-      "source_location": "L21",
+      "source_file": "src/data/types.ts",
+      "source_location": "L1",
       "weight": 1.0
     },
     {
-      "source": "src_data_treinos",
-      "target": "src_data_treinos_exercicio",
+      "source": "src_data_types",
+      "target": "src_data_types_treino",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "src/data/treinos.ts",
+      "source_file": "src/data/types.ts",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "src_data_vinicius_treinos",
+      "target": "src_data_vinicius_treinos_treinos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/data/vinicius/treinos.ts",
       "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_karla",
+      "target": "src_pages_karla_karla",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/pages/Karla.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_vinicius",
+      "target": "src_pages_vinicius_vinicius",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/pages/Vinicius.tsx",
+      "source_location": "L4",
       "weight": 1.0
     },
     {
@@ -2419,6 +2858,41 @@
       "weight": 1.0
     },
     {
+      "source": "vercel",
+      "target": "vercel_rewrites",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "vercel.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app",
+      "target": "src_pages_karla_karla",
+      "relation": "indirect_call",
+      "_origin": "ast",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "context": "collection",
+      "source_file": "src/App.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app",
+      "target": "src_pages_vinicius_vinicius",
+      "relation": "indirect_call",
+      "_origin": "ast",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "context": "collection",
+      "source_file": "src/App.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
       "source": "treinos_karla_treino_14_07_2026_v2_revisado",
       "target": "treinos_karla_treino_14_07_2026",
       "relation": "semantically_similar_to",
@@ -2541,5 +3015,5 @@
       "source_file": "CLAUDE.md"
     }
   ],
-  "built_at_commit": "e06db0a607ee36ef271404288bdf566eab89bb75"
+  "built_at_commit": "2080785ccc35329fd761d1ddf371b77e692a6762"
 }

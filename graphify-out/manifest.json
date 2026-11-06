@@ -1,32 +1,20 @@
 {
   "package.json": {
-    "mtime": 1788195599.876424,
-    "seen": 1788196633.1488814,
-    "ast_hash": "01e8f21c2b7e4493b567a9c5a2ac2860",
-    "semantic_hash": "01e8f21c2b7e4493b567a9c5a2ac2860"
+    "mtime": 1793974309.4227355,
+    "seen": 1793974345.0697997,
+    "ast_hash": "b6a1030265539c5e6281b22e29a338f6",
+    "semantic_hash": ""
   },
   "src/App.tsx": {
-    "mtime": 1793890514.7461429,
-    "seen": 1793890537.772199,
-    "ast_hash": "47d3df028a81d1f325054b7235dbd9cb",
+    "mtime": 1793974309.4127355,
+    "seen": 1793974345.0698066,
+    "ast_hash": "1f6beabd17bd2f53d750e5980b6d0552",
     "semantic_hash": ""
   },
   "src/components/TreinoCard.tsx": {
-    "mtime": 1788195654.2585013,
-    "seen": 1788196633.1488853,
-    "ast_hash": "e2bc74997efe763a87c590634c2e133f",
-    "semantic_hash": "e2bc74997efe763a87c590634c2e133f"
-  },
-  "src/data/gifs.ts": {
-    "mtime": 1793890135.4642742,
-    "seen": 1793890259.7927547,
-    "ast_hash": "0c89697b6906daaa607a0f916330d955",
-    "semantic_hash": ""
-  },
-  "src/data/treinos.ts": {
-    "mtime": 1793890514.745143,
-    "seen": 1793890537.7722151,
-    "ast_hash": "d5547e21346b4fa341cb23d85be2ac0e",
+    "mtime": 1793974309.3977354,
+    "seen": 1793974345.0698106,
+    "ast_hash": "69bb52192bf3be75f958ca78538e6732",
     "semantic_hash": ""
   },
   "src/main.tsx": {
@@ -48,10 +36,10 @@
     "semantic_hash": "9bf09b6d97edba4eebf0fe93baaad662"
   },
   "CLAUDE.md": {
-    "mtime": 1788195599.8704243,
-    "seen": 1788196633.148891,
-    "ast_hash": "89b8e30577d5ec69b4610fcc05546889",
-    "semantic_hash": "89b8e30577d5ec69b4610fcc05546889"
+    "mtime": 1793974336.6007104,
+    "seen": 1793974345.0698354,
+    "ast_hash": "2b38de7e408270f6c0521395fd0229ae",
+    "semantic_hash": ""
   },
   "Treinos/Karla/treino-08-03-2026.md": {
     "mtime": 1788195624.1864588,
@@ -261,6 +249,60 @@
     "mtime": 1788195621.600455,
     "seen": 1793890259.792798,
     "ast_hash": "1404d47cd8a0da0a00969d3ee16b47b4",
+    "semantic_hash": ""
+  },
+  "src/data/karla/gifs.ts": {
+    "mtime": 1793890135.4642742,
+    "seen": 1793974345.0698125,
+    "ast_hash": "0c89697b6906daaa607a0f916330d955",
+    "semantic_hash": ""
+  },
+  "src/data/karla/treinos.ts": {
+    "mtime": 1793974309.3967354,
+    "seen": 1793974345.069816,
+    "ast_hash": "08873bf166c08100cbf3b2073b18624b",
+    "semantic_hash": ""
+  },
+  "src/data/types.ts": {
+    "mtime": 1793974309.3967354,
+    "seen": 1793974345.069817,
+    "ast_hash": "a479c5b22756b32bb2e2f618e3de4005",
+    "semantic_hash": ""
+  },
+  "src/data/vinicius/treinos.ts": {
+    "mtime": 1793974309.4057355,
+    "seen": 1793974345.069818,
+    "ast_hash": "d3fb1a77aabccdd631dffb0af38b4fdc",
+    "semantic_hash": ""
+  },
+  "src/pages/Karla.tsx": {
+    "mtime": 1793974309.3977354,
+    "seen": 1793974345.069823,
+    "ast_hash": "9b85a6f217c96251c2a25eba9ca05265",
+    "semantic_hash": ""
+  },
+  "src/pages/Vinicius.tsx": {
+    "mtime": 1793974309.4097354,
+    "seen": 1793974345.0698242,
+    "ast_hash": "254a3c7710bdd4576d984ba6573273a8",
+    "semantic_hash": ""
+  },
+  "src/vite-env.d.ts": {
+    "mtime": 1793974334.4577122,
+    "seen": 1793974345.0698252,
+    "ast_hash": "0352474ba2918efe13895edbc3780d94",
+    "semantic_hash": ""
+  },
+  "vercel.json": {
+    "mtime": 1793974309.4147356,
+    "seen": 1793974345.0698292,
+    "ast_hash": "3ce034f37a6661efc8073a99b87d2c87",
+    "semantic_hash": ""
+  },
+  "rotinas/rotina-montar-fase.md": {
+    "mtime": 1793974336.5747104,
+    "seen": 1793974345.0698519,
+    "ast_hash": "dff5580f5f4efe40eee059c2ffdf00b1",
     "semantic_hash": ""
   }
 }
