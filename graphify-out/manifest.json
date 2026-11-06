@@ -1,8 +1,8 @@
 {
   "package.json": {
-    "mtime": 1793974309.4227355,
-    "seen": 1793974345.0697997,
-    "ast_hash": "b6a1030265539c5e6281b22e29a338f6",
+    "mtime": 1793976243.4791412,
+    "seen": 1793976301.20984,
+    "ast_hash": "7fc95576b0902ac721cb6cbc2bf2eda0",
     "semantic_hash": ""
   },
   "src/App.tsx": {
@@ -12,9 +12,9 @@
     "semantic_hash": ""
   },
   "src/components/TreinoCard.tsx": {
-    "mtime": 1793974309.3977354,
-    "seen": 1793974345.0698106,
-    "ast_hash": "69bb52192bf3be75f958ca78538e6732",
+    "mtime": 1793976246.8981469,
+    "seen": 1793976301.2098508,
+    "ast_hash": "007a9b26540646ba83da0ea41af6611c",
     "semantic_hash": ""
   },
   "src/main.tsx": {
@@ -36,9 +36,9 @@
     "semantic_hash": "9bf09b6d97edba4eebf0fe93baaad662"
   },
   "CLAUDE.md": {
-    "mtime": 1793974743.374514,
-    "seen": 1793975723.1693785,
-    "ast_hash": "9bab233990e97f984cf309a2ba5ad52a",
+    "mtime": 1793976298.6022294,
+    "seen": 1793976301.2098784,
+    "ast_hash": "f43fa0b3de423276772cbff145eb5921",
     "semantic_hash": ""
   },
   "Treinos/Karla/treino-08-03-2026.md": {
@@ -324,9 +324,441 @@
     "semantic_hash": ""
   },
   "Treinos/Vinicius/treino-09-11-2026.md": {
-    "mtime": 1793975711.5896666,
-    "seen": 1793975723.169392,
-    "ast_hash": "c53a9717dce6884af9b3886217af576f",
+    "mtime": 1793975890.1387289,
+    "seen": 1793976301.2098927,
+    "ast_hash": "59ddb8df75f11e7185f7dde5ffa9ddfd",
+    "semantic_hash": ""
+  },
+  "scripts/otimizar-gifs.mts": {
+    "mtime": 1793976230.72212,
+    "seen": 1793976301.2098446,
+    "ast_hash": "9501dfcf8fe1790a361a56c30dd4438c",
+    "semantic_hash": ""
+  },
+  "src/data/localGif.ts": {
+    "mtime": 1793976231.7351217,
+    "seen": 1793976301.209857,
+    "ast_hash": "e1d78583891177277a55ded46e20f144",
+    "semantic_hash": ""
+  },
+  "public/gifs/161.webp": {
+    "mtime": 1793976256.800163,
+    "seen": 1793976301.2099006,
+    "ast_hash": "dc3e58886f2e27da46aedee3b8580c00",
+    "semantic_hash": ""
+  },
+  "public/gifs/45-Degree-Incline-Row.webp": {
+    "mtime": 1793976253.9991586,
+    "seen": 1793976301.2099018,
+    "ast_hash": "8ef33402918930a42c9a835bbf52e641",
+    "semantic_hash": ""
+  },
+  "public/gifs/Ab-Wheel-Rollout.webp": {
+    "mtime": 1793976262.226172,
+    "seen": 1793976301.2099044,
+    "ast_hash": "f18e7b3986e61762a79cb94f27b6857f",
+    "semantic_hash": ""
+  },
+  "public/gifs/Arnold-Press.webp": {
+    "mtime": 1793976254.5241594,
+    "seen": 1793976301.2099078,
+    "ast_hash": "a5d627a4e22b976e30ccb0bf2ca33535",
+    "semantic_hash": ""
+  },
+  "public/gifs/BARBELL-SQUAT.webp": {
+    "mtime": 1793976263.1881735,
+    "seen": 1793976301.209909,
+    "ast_hash": "652d37b1218d34bbeba77d505f77350e",
+    "semantic_hash": ""
+  },
+  "public/gifs/Barbell-Bench-Press.webp": {
+    "mtime": 1793976252.2671556,
+    "seen": 1793976301.20991,
+    "ast_hash": "1f2b06c5acb6923299b070d22e8aa8f4",
+    "semantic_hash": ""
+  },
+  "public/gifs/Barbell-Bent-Over-Row.webp": {
+    "mtime": 1793976265.380177,
+    "seen": 1793976301.209911,
+    "ast_hash": "a621335bd9a159d08b02ed734cfa463f",
+    "semantic_hash": ""
+  },
+  "public/gifs/Barbell-Curl.webp": {
+    "mtime": 1793976255.8921616,
+    "seen": 1793976301.2099123,
+    "ast_hash": "b2ebc3532a02646597441fed809cfb58",
+    "semantic_hash": ""
+  },
+  "public/gifs/Barbell-Deadlift.webp": {
+    "mtime": 1793976256.5911627,
+    "seen": 1793976301.2099152,
+    "ast_hash": "18fd93715e68a8565cca254588c7e07f",
+    "semantic_hash": ""
+  },
+  "public/gifs/Barbell-Good-Morning.webp": {
+    "mtime": 1793976263.4181738,
+    "seen": 1793976301.2099164,
+    "ast_hash": "9f11a12424dd5e43c5a42ebc9dcd9080",
+    "semantic_hash": ""
+  },
+  "public/gifs/Barbell-Hip-Thrust.webp": {
+    "mtime": 1793976257.0231636,
+    "seen": 1793976301.209919,
+    "ast_hash": "adaae86f0314007852f8649ee16d32e2",
+    "semantic_hash": ""
+  },
+  "public/gifs/Barbell-Romanian-Deadlift.webp": {
+    "mtime": 1793976257.2031636,
+    "seen": 1793976301.2099216,
+    "ast_hash": "86716a1eb1c3d001b41f3da1d541285d",
+    "semantic_hash": ""
+  },
+  "public/gifs/Barbell-Shoulder-Press.webp": {
+    "mtime": 1793976266.9661796,
+    "seen": 1793976301.2099226,
+    "ast_hash": "cf8415e3003638bd66e074f843d67a7b",
+    "semantic_hash": ""
+  },
+  "public/gifs/Bicycle-Crunch.webp": {
+    "mtime": 1793976261.3511705,
+    "seen": 1793976301.2099237,
+    "ast_hash": "24bf009d9872f118e6d693f3fd4ba80e",
+    "semantic_hash": ""
+  },
+  "public/gifs/Cable-Crossover.webp": {
+    "mtime": 1793976264.4291754,
+    "seen": 1793976301.209925,
+    "ast_hash": "24d690efd369efc38e11d87021c6b16d",
+    "semantic_hash": ""
+  },
+  "public/gifs/Cable-Donkey-Kickback.webp": {
+    "mtime": 1793976259.0081666,
+    "seen": 1793976301.2099292,
+    "ast_hash": "b7cbed04af7ac46bbe1d6f8f749e4675",
+    "semantic_hash": ""
+  },
+  "public/gifs/Cable-Front-Squat.webp": {
+    "mtime": 1793976260.9201698,
+    "seen": 1793976301.20993,
+    "ast_hash": "20f4073ee171968a80e830e0f6a8c8df",
+    "semantic_hash": ""
+  },
+  "public/gifs/Cable-Half-Kneeling-Pallof-Press.webp": {
+    "mtime": 1793976262.9691732,
+    "seen": 1793976301.2099314,
+    "ast_hash": "a81b8b0be720ba81c825fb7a37d7990b",
+    "semantic_hash": ""
+  },
+  "public/gifs/Cable-Hip-Abduction.webp": {
+    "mtime": 1793976257.4131641,
+    "seen": 1793976301.2099333,
+    "ast_hash": "fb415ae652013bf582151ddcb68fc20d",
+    "semantic_hash": ""
+  },
+  "public/gifs/Cable-Hips-Adduction.webp": {
+    "mtime": 1793976259.230167,
+    "seen": 1793976301.2099357,
+    "ast_hash": "5d2e97cf12bab6ee9218eabbe36a09f1",
+    "semantic_hash": ""
+  },
+  "public/gifs/Cable-Lateral-Raise.webp": {
+    "mtime": 1793976266.2361784,
+    "seen": 1793976301.2099366,
+    "ast_hash": "a8041b3d20abbcea2a2191fed255bf46",
+    "semantic_hash": ""
+  },
+  "public/gifs/Cable-Rope-Overhead-Triceps-Extension.webp": {
+    "mtime": 1793976267.6501806,
+    "seen": 1793976301.2099376,
+    "ast_hash": "0a61728e610b11f487f8f1a149cc100b",
+    "semantic_hash": ""
+  },
+  "public/gifs/Chest-Dips.webp": {
+    "mtime": 1793976264.9031763,
+    "seen": 1793976301.2099385,
+    "ast_hash": "ab9827fe6d288e4a483f9873c38550d6",
+    "semantic_hash": ""
+  },
+  "public/gifs/Close-Grip-Bench-Press.webp": {
+    "mtime": 1793976268.519182,
+    "seen": 1793976301.2099395,
+    "ast_hash": "e602267eb0a360884fd0b2b4108beb67",
+    "semantic_hash": ""
+  },
+  "public/gifs/Close-Grip-Lat-Pulldown.webp": {
+    "mtime": 1793976265.5801773,
+    "seen": 1793976301.209941,
+    "ast_hash": "369a8fb60eaf22999328f6f052a8e900",
+    "semantic_hash": ""
+  },
+  "public/gifs/Concentration-Curl.webp": {
+    "mtime": 1793976256.188162,
+    "seen": 1793976301.209942,
+    "ast_hash": "69f63b58d2a67865826fb83697ab00de",
+    "semantic_hash": ""
+  },
+  "public/gifs/Curtsey-Squat.webp": {
+    "mtime": 1793976259.9751682,
+    "seen": 1793976301.209943,
+    "ast_hash": "c981e13e1676517e02b788dba70630a4",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dead-Bug.webp": {
+    "mtime": 1793976261.1591702,
+    "seen": 1793976301.2099438,
+    "ast_hash": "26d98b407d757b5f9b1497d034c2ecb6",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Bulgarian-Split-Squat.webp": {
+    "mtime": 1793976259.4381673,
+    "seen": 1793976301.209946,
+    "ast_hash": "598cd29180f2c2907c2f5a03ad01e01e",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Curl.webp": {
+    "mtime": 1793976268.2661817,
+    "seen": 1793976301.209949,
+    "ast_hash": "b873bdeec2bff6d1c7426aa069b01132",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Fly.webp": {
+    "mtime": 1793976252.9351568,
+    "seen": 1793976301.20995,
+    "ast_hash": "0340f6e5bbd1eb9b745dc92d3a1bd6c8",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Goblet-Squat.webp": {
+    "mtime": 1793976257.7891648,
+    "seen": 1793976301.209951,
+    "ast_hash": "b5588fbdf152305e7535db7fb3fc73ac",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Good-Morning.webp": {
+    "mtime": 1793976260.2321687,
+    "seen": 1793976301.2099516,
+    "ast_hash": "e34d6b3beadbaaf9a982c2c322ae69fb",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Lateral-Raise.webp": {
+    "mtime": 1793976266.003178,
+    "seen": 1793976301.2099538,
+    "ast_hash": "83fa12efcad3f824cff9b96a6f7b2385",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Lateral-to-Front-Raise.webp": {
+    "mtime": 1793976255.1951604,
+    "seen": 1793976301.209955,
+    "ast_hash": "e44ad6415d27a7866263a6beb66d7973",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Press-1.webp": {
+    "mtime": 1793976264.6401758,
+    "seen": 1793976301.209956,
+    "ast_hash": "c554ab2a5218079e18c605e759c14572",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Reverse-Fly.webp": {
+    "mtime": 1793976266.723179,
+    "seen": 1793976301.209957,
+    "ast_hash": "1e09698e27a9ff466d13115bb44e56af",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Row.webp": {
+    "mtime": 1793976253.7811582,
+    "seen": 1793976301.2099597,
+    "ast_hash": "28dc06e963499e849eed1bad34f7584e",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Shoulder-Press.webp": {
+    "mtime": 1793976254.343159,
+    "seen": 1793976301.2100658,
+    "ast_hash": "4e48fdc04dea6b26e7ba2430b97c183b",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Shrug.webp": {
+    "mtime": 1793976267.21118,
+    "seen": 1793976301.2100694,
+    "ast_hash": "736d140d1166c19b5eebc8ae94f4c35c",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbbell-Skull-Crusher.webp": {
+    "mtime": 1793976255.6321611,
+    "seen": 1793976301.2100713,
+    "ast_hash": "b842c6d9f010cd6240aa08a9c8f59e26",
+    "semantic_hash": ""
+  },
+  "public/gifs/Dumbeel-Step-Up.webp": {
+    "mtime": 1793976260.7091694,
+    "seen": 1793976301.2100763,
+    "ast_hash": "76a0a9ff608ecc31aa3b1220a6dccaac",
+    "semantic_hash": ""
+  },
+  "public/gifs/Face-Pull.webp": {
+    "mtime": 1793976254.79716,
+    "seen": 1793976301.210078,
+    "ast_hash": "8498290f40204916ec4f2f81fb1fb3d3",
+    "semantic_hash": ""
+  },
+  "public/gifs/Glute-Bridge-.webp": {
+    "mtime": 1793976257.6031644,
+    "seen": 1793976301.210079,
+    "ast_hash": "870bafdb484c5215d7222b8f1021caa6",
+    "semantic_hash": ""
+  },
+  "public/gifs/Hammer-Curl.webp": {
+    "mtime": 1793976256.3771625,
+    "seen": 1793976301.2100854,
+    "ast_hash": "97c5216cd05f4bcd251e2f5cfdafbb9d",
+    "semantic_hash": ""
+  },
+  "public/gifs/Hanging-Knee-Raises.webp": {
+    "mtime": 1793976261.9451714,
+    "seen": 1793976301.2100866,
+    "ast_hash": "af5d05911575a6f9b9b2834d4128887f",
+    "semantic_hash": ""
+  },
+  "public/gifs/Incline-Barbell-Bench-Press.webp": {
+    "mtime": 1793976252.488156,
+    "seen": 1793976301.210089,
+    "ast_hash": "2b8843d152a59436c995abe96dd4c063",
+    "semantic_hash": ""
+  },
+  "public/gifs/Incline-Dumbbell-Press.webp": {
+    "mtime": 1793976252.6981564,
+    "seen": 1793976301.2100902,
+    "ast_hash": "3f9791044cffca466114fa0e3c5edef8",
+    "semantic_hash": ""
+  },
+  "public/gifs/Kneeling-Cable-Crunch.webp": {
+    "mtime": 1793976262.4201722,
+    "seen": 1793976301.2100914,
+    "ast_hash": "64fa828bff9caadb7876fc6b0674c385",
+    "semantic_hash": ""
+  },
+  "public/gifs/LEG-EXTENSION.webp": {
+    "mtime": 1793976258.594166,
+    "seen": 1793976301.2100923,
+    "ast_hash": "f541e0655a9bcbc690921e446e1910ba",
+    "semantic_hash": ""
+  },
+  "public/gifs/Lat-Pulldown.webp": {
+    "mtime": 1793976253.2491572,
+    "seen": 1793976301.2100933,
+    "ast_hash": "8243cc3c20ca551d062f7bbfddfefabb",
+    "semantic_hash": ""
+  },
+  "public/gifs/Leg-Press.webp": {
+    "mtime": 1793976258.005165,
+    "seen": 1793976301.2100992,
+    "ast_hash": "cb14404d9c50a4e29ac70d800b7b2e31",
+    "semantic_hash": ""
+  },
+  "public/gifs/Lever-Seated-Calf-Raise.webp": {
+    "mtime": 1793976264.131175,
+    "seen": 1793976301.2101002,
+    "ast_hash": "9366f80e0ea5f182391131cb82d49c0d",
+    "semantic_hash": ""
+  },
+  "public/gifs/Pull-up.webp": {
+    "mtime": 1793976265.1041765,
+    "seen": 1793976301.2101026,
+    "ast_hash": "9c2a06d80c05416a9ea88117abaed65a",
+    "semantic_hash": ""
+  },
+  "public/gifs/Pushdown.webp": {
+    "mtime": 1793976255.4191608,
+    "seen": 1793976301.2101038,
+    "ast_hash": "0053d67a8e094ffcae8eec55e8439727",
+    "semantic_hash": ""
+  },
+  "public/gifs/Rear-Delt-Machine-Flys.webp": {
+    "mtime": 1793976266.4541788,
+    "seen": 1793976301.2101042,
+    "ast_hash": "8b20dbdefc54f4530eccf4b150a16472",
+    "semantic_hash": ""
+  },
+  "public/gifs/Resistance-Band-Lateral-Walk.webp": {
+    "mtime": 1793976259.7171679,
+    "seen": 1793976301.2101054,
+    "ast_hash": "c8d1d2b4dfaf8f83a33206bf8f5d4c77",
+    "semantic_hash": ""
+  },
+  "public/gifs/Reverse-Crunch-1.webp": {
+    "mtime": 1793976262.7371726,
+    "seen": 1793976301.2101064,
+    "ast_hash": "33991c661e97ed86015926059903c6ff",
+    "semantic_hash": ""
+  },
+  "public/gifs/Rope-Pushdown.webp": {
+    "mtime": 1793976268.0821812,
+    "seen": 1793976301.210109,
+    "ast_hash": "70b43d80b332070f181b0888ef49806c",
+    "semantic_hash": ""
+  },
+  "public/gifs/Russian-Twist.webp": {
+    "mtime": 1793976261.748171,
+    "seen": 1793976301.21011,
+    "ast_hash": "6b966658953ec8f44da5d095e0643cbe",
+    "semantic_hash": ""
+  },
+  "public/gifs/Seated-Cable-Row.webp": {
+    "mtime": 1793976253.4921577,
+    "seen": 1793976301.210111,
+    "ast_hash": "62ddee16d48a367ef1fb1833039ba321",
+    "semantic_hash": ""
+  },
+  "public/gifs/Seated-Incline-Dumbbell-Curl.webp": {
+    "mtime": 1793976267.4171803,
+    "seen": 1793976301.210112,
+    "ast_hash": "4ec516b2b272a26a16ce44889e04ada0",
+    "semantic_hash": ""
+  },
+  "public/gifs/Seated-Leg-Curl.webp": {
+    "mtime": 1793976263.654174,
+    "seen": 1793976301.210113,
+    "ast_hash": "174640527d0b159989b4b37c908e543a",
+    "semantic_hash": ""
+  },
+  "public/gifs/Single-Leg-Bridge.webp": {
+    "mtime": 1793976260.464169,
+    "seen": 1793976301.2101142,
+    "ast_hash": "e6b567cae880e515cbd7a06b4b436531",
+    "semantic_hash": ""
+  },
+  "public/gifs/Standing-Calf-Raise.webp": {
+    "mtime": 1793976263.8821745,
+    "seen": 1793976301.2101166,
+    "ast_hash": "49ea6d536d81afb6cf84ba3a6ef46f46",
+    "semantic_hash": ""
+  },
+  "public/gifs/Z-Bar-Preacher-Curl.webp": {
+    "mtime": 1793976267.853181,
+    "seen": 1793976301.2101188,
+    "ast_hash": "31945f0c6e55133edb40764f34531aa3",
+    "semantic_hash": ""
+  },
+  "public/gifs/bodyweight-reverse-lunge.webp": {
+    "mtime": 1793976258.2851655,
+    "seen": 1793976301.2101197,
+    "ast_hash": "eec5cc71cca0d4b7110d691c1d1d32f8",
+    "semantic_hash": ""
+  },
+  "public/gifs/dumbbell-sumo-squat.webp": {
+    "mtime": 1793976258.7931664,
+    "seen": 1793976301.2101207,
+    "ast_hash": "0031a564e9fa2122ee53b5f0f7cd2274",
+    "semantic_hash": ""
+  },
+  "public/gifs/plank.webp": {
+    "mtime": 1793976262.5431724,
+    "seen": 1793976301.2101216,
+    "ast_hash": "614a11fadd155d04efffb4684b1fe3a6",
+    "semantic_hash": ""
+  },
+  "public/gifs/t-bar-rows.webp": {
+    "mtime": 1793976265.8041778,
+    "seen": 1793976301.2101228,
+    "ast_hash": "e10205aa4abb1ee0711b94f7848eebfe",
     "semantic_hash": ""
   }
 }

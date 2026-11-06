@@ -70,6 +70,7 @@ Treinos do Vinicius: `Treinos/Vinicius/` e `src/data/vinicius/treinos.ts`.
 - Deload na semana 9 de cada bloco (−50% volume, −20–30% carga)
 - Sem arquivos HTML de treino — usar apenas `.md` + React/TypeScript
 - GIFs vêm de `fitnessprogramer.com` ou `inspireusafoundation.org`
+- O app exibe cópias leves (WebP 260px em `public/gifs/`, ~80% menores). GIF novo no catálogo: rodar `npm run gifs` antes do build (sem a cópia, o app cai no link original, que é lento)
 
 ## Índice do repositório
 

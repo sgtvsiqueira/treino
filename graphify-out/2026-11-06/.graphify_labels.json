@@ -1,6 +1,6 @@
 {
   "0": "compilerOptions",
-  "1": "App.tsx",
+  "1": "vinicius/treinos.ts",
   "2": "devDependencies",
   "3": "package.json",
   "4": "Plano de 6 meses — Karla Terra (Glúteos e Pernas)",
@@ -20,5 +20,7 @@
   "18": "Nova Ficha de Treino — Periodização Híbrida (Glúteo + Superiores fundidos + Core 3x)",
   "19": "Rotina automática — montar a próxima fase do plano de 6 meses da Karla",
   "20": "vercel.json",
-  "21": "vite-env.d.ts"
+  "21": "vite-env.d.ts",
+  "22": "Project Index: treino",
+  "23": "Divisão da semana"
 }

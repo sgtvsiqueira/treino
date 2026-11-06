@@ -1,4 +1,5 @@
 import type { Treino } from '../data/types'
+import { localGifPath } from '../data/localGif'
 
 interface Props {
   treino: Treino
@@ -33,9 +34,13 @@ export default function TreinoCard({ treino }: Props) {
                 <td className="td-img">
                   <img
                     className="ex-img"
-                    src={ex.imgSrc}
+                    src={localGifPath(ex.imgSrc)}
                     alt={ex.imgAlt}
                     loading="lazy"
+                    decoding="async"
+                    onError={(e) => {
+                      if (e.currentTarget.src !== ex.imgSrc) e.currentTarget.src = ex.imgSrc
+                    }}
                   />
                 </td>
                 <td>{ex.musculos}</td>

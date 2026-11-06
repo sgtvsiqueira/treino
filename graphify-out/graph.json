@@ -42,11 +42,11 @@
       "_callable_class": true,
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "props",
       "source_file": "src/components/TreinoCard.tsx",
-      "source_location": "L3"
+      "source_location": "L4"
     },
     {
       "id": "src_data_types_exercicio",
@@ -55,7 +55,7 @@
       "_callable_class": true,
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "exercicio",
       "source_file": "src/data/types.ts",
@@ -68,7 +68,7 @@
       "_callable_class": true,
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "treino",
       "source_file": "src/data/types.ts",
@@ -80,7 +80,7 @@
       "_callable": true,
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "app()",
       "source_file": "src/App.tsx",
@@ -92,11 +92,23 @@
       "_callable": true,
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "treinocard()",
       "source_file": "src/components/TreinoCard.tsx",
-      "source_location": "L7"
+      "source_location": "L8"
+    },
+    {
+      "id": "src_data_localgif_localgifpath",
+      "label": "localGifPath()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "TreinoCard.tsx",
+      "file_type": "code",
+      "norm_label": "localgifpath()",
+      "source_file": "src/data/localGif.ts",
+      "source_location": "L1"
     },
     {
       "id": "src_data_vinicius_treinos_ex",
@@ -104,7 +116,7 @@
       "_callable": true,
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "ex()",
       "source_file": "src/data/vinicius/treinos.ts",
@@ -116,7 +128,7 @@
       "_callable": true,
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "karla()",
       "source_file": "src/pages/Karla.tsx",
@@ -128,7 +140,7 @@
       "_callable": true,
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "vinicius()",
       "source_file": "src/pages/Vinicius.tsx",
@@ -348,7 +360,7 @@
       "label": "App.tsx",
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "app.tsx",
       "source_file": "src/App.tsx",
@@ -359,7 +371,7 @@
       "label": "paginas",
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "paginas",
       "source_file": "src/App.tsx",
@@ -370,32 +382,10 @@
       "label": "TreinoCard.tsx",
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "treinocard.tsx",
       "source_file": "src/components/TreinoCard.tsx",
-      "source_location": "L1"
-    },
-    {
-      "id": "src_data_karla_gifs",
-      "label": "karla/gifs.ts",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "vinicius/treinos.ts",
-      "file_type": "code",
-      "norm_label": "karla/gifs.ts",
-      "source_file": "src/data/karla/gifs.ts",
-      "source_location": "L1"
-    },
-    {
-      "id": "src_data_karla_gifs_gifs",
-      "label": "gifs",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "vinicius/treinos.ts",
-      "file_type": "code",
-      "norm_label": "gifs",
-      "source_file": "src/data/karla/gifs.ts",
       "source_location": "L1"
     },
     {
@@ -403,7 +393,7 @@
       "label": "karla/treinos.ts",
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "karla/treinos.ts",
       "source_file": "src/data/karla/treinos.ts",
@@ -414,51 +404,40 @@
       "label": "treinos",
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "treinos",
       "source_file": "src/data/karla/treinos.ts",
       "source_location": "L4"
     },
     {
+      "id": "src_data_localgif",
+      "label": "localGif.ts",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "TreinoCard.tsx",
+      "file_type": "code",
+      "norm_label": "localgif.ts",
+      "source_file": "src/data/localGif.ts",
+      "source_location": "L1"
+    },
+    {
       "id": "src_data_types",
       "label": "types.ts",
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "types.ts",
       "source_file": "src/data/types.ts",
       "source_location": "L1"
     },
     {
-      "id": "src_data_vinicius_gifs",
-      "label": "vinicius/gifs.ts",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "vinicius/treinos.ts",
-      "file_type": "code",
-      "norm_label": "vinicius/gifs.ts",
-      "source_file": "src/data/vinicius/gifs.ts",
-      "source_location": "L1"
-    },
-    {
-      "id": "src_data_vinicius_gifs_gifs",
-      "label": "gifs",
-      "_origin": "ast",
-      "community": 1,
-      "community_name": "vinicius/treinos.ts",
-      "file_type": "code",
-      "norm_label": "gifs",
-      "source_file": "src/data/vinicius/gifs.ts",
-      "source_location": "L5"
-    },
-    {
       "id": "src_data_vinicius_treinos",
       "label": "vinicius/treinos.ts",
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "vinicius/treinos.ts",
       "source_file": "src/data/vinicius/treinos.ts",
@@ -469,7 +448,7 @@
       "label": "treinos",
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "treinos",
       "source_file": "src/data/vinicius/treinos.ts",
@@ -480,7 +459,7 @@
       "label": "main.tsx",
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "main.tsx",
       "source_file": "src/main.tsx",
@@ -491,7 +470,7 @@
       "label": "Karla.tsx",
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "karla.tsx",
       "source_file": "src/pages/Karla.tsx",
@@ -502,7 +481,7 @@
       "label": "Vinicius.tsx",
       "_origin": "ast",
       "community": 1,
-      "community_name": "vinicius/treinos.ts",
+      "community_name": "TreinoCard.tsx",
       "file_type": "code",
       "norm_label": "vinicius.tsx",
       "source_file": "src/pages/Vinicius.tsx",
@@ -816,7 +795,7 @@
       "file_type": "code",
       "norm_label": "devdependencies",
       "source_file": "package.json",
-      "source_location": "L15"
+      "source_location": "L16"
     },
     {
       "id": "package_devdependencies_types_react",
@@ -827,7 +806,7 @@
       "file_type": "code",
       "norm_label": "@types/react",
       "source_file": "package.json",
-      "source_location": "L16"
+      "source_location": "L17"
     },
     {
       "id": "package_devdependencies_types_react_dom",
@@ -838,7 +817,7 @@
       "file_type": "code",
       "norm_label": "@types/react-dom",
       "source_file": "package.json",
-      "source_location": "L17"
+      "source_location": "L18"
     },
     {
       "id": "package_devdependencies_typescript",
@@ -849,7 +828,7 @@
       "file_type": "code",
       "norm_label": "typescript",
       "source_file": "package.json",
-      "source_location": "L19"
+      "source_location": "L20"
     },
     {
       "id": "package_devdependencies_vite",
@@ -860,7 +839,7 @@
       "file_type": "code",
       "norm_label": "vite",
       "source_file": "package.json",
-      "source_location": "L20"
+      "source_location": "L21"
     },
     {
       "id": "package_devdependencies_vitejs_plugin_react",
@@ -871,7 +850,7 @@
       "file_type": "code",
       "norm_label": "@vitejs/plugin-react",
       "source_file": "package.json",
-      "source_location": "L18"
+      "source_location": "L19"
     },
     {
       "id": "types_react",
@@ -882,7 +861,7 @@
       "file_type": "concept",
       "norm_label": "@types/react",
       "source_file": "package.json",
-      "source_location": "L16"
+      "source_location": "L17"
     },
     {
       "id": "types_react_dom",
@@ -893,7 +872,7 @@
       "file_type": "concept",
       "norm_label": "@types/react-dom",
       "source_file": "package.json",
-      "source_location": "L17"
+      "source_location": "L18"
     },
     {
       "id": "typescript",
@@ -904,7 +883,7 @@
       "file_type": "concept",
       "norm_label": "typescript",
       "source_file": "package.json",
-      "source_location": "L19"
+      "source_location": "L20"
     },
     {
       "id": "vite",
@@ -915,7 +894,7 @@
       "file_type": "concept",
       "norm_label": "vite",
       "source_file": "package.json",
-      "source_location": "L20"
+      "source_location": "L21"
     },
     {
       "id": "vitejs_plugin_react",
@@ -926,7 +905,7 @@
       "file_type": "concept",
       "norm_label": "@vitejs/plugin-react",
       "source_file": "package.json",
-      "source_location": "L18"
+      "source_location": "L19"
     },
     {
       "id": "vercel",
@@ -1202,6 +1181,94 @@
       "source_location": "L93"
     },
     {
+      "id": "scripts_otimizar_gifs",
+      "label": "otimizar-gifs.mts",
+      "_origin": "ast",
+      "community": 24,
+      "community_name": "otimizar-gifs.mts",
+      "file_type": "code",
+      "norm_label": "otimizar-gifs.mts",
+      "source_file": "scripts/otimizar-gifs.mts",
+      "source_location": "L1"
+    },
+    {
+      "id": "scripts_otimizar_gifs_saida",
+      "label": "saida",
+      "_origin": "ast",
+      "community": 24,
+      "community_name": "otimizar-gifs.mts",
+      "file_type": "code",
+      "norm_label": "saida",
+      "source_file": "scripts/otimizar-gifs.mts",
+      "source_location": "L11"
+    },
+    {
+      "id": "scripts_otimizar_gifs_tmp",
+      "label": "tmp",
+      "_origin": "ast",
+      "community": 24,
+      "community_name": "otimizar-gifs.mts",
+      "file_type": "code",
+      "norm_label": "tmp",
+      "source_file": "scripts/otimizar-gifs.mts",
+      "source_location": "L13"
+    },
+    {
+      "id": "scripts_otimizar_gifs_urls",
+      "label": "urls",
+      "_origin": "ast",
+      "community": 24,
+      "community_name": "otimizar-gifs.mts",
+      "file_type": "code",
+      "norm_label": "urls",
+      "source_file": "scripts/otimizar-gifs.mts",
+      "source_location": "L15"
+    },
+    {
+      "id": "src_data_karla_gifs",
+      "label": "karla/gifs.ts",
+      "_origin": "ast",
+      "community": 24,
+      "community_name": "otimizar-gifs.mts",
+      "file_type": "code",
+      "norm_label": "karla/gifs.ts",
+      "source_file": "src/data/karla/gifs.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_data_karla_gifs_gifs",
+      "label": "gifs",
+      "_origin": "ast",
+      "community": 24,
+      "community_name": "otimizar-gifs.mts",
+      "file_type": "code",
+      "norm_label": "gifs",
+      "source_file": "src/data/karla/gifs.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_data_vinicius_gifs",
+      "label": "vinicius/gifs.ts",
+      "_origin": "ast",
+      "community": 24,
+      "community_name": "otimizar-gifs.mts",
+      "file_type": "code",
+      "norm_label": "vinicius/gifs.ts",
+      "source_file": "src/data/vinicius/gifs.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_data_vinicius_gifs_gifs",
+      "label": "gifs",
+      "_origin": "ast",
+      "community": 24,
+      "community_name": "otimizar-gifs.mts",
+      "file_type": "code",
+      "norm_label": "gifs",
+      "source_file": "src/data/vinicius/gifs.ts",
+      "source_location": "L5"
+    },
+    {
       "id": "package",
       "label": "package.json",
       "_origin": "ast",
@@ -1221,7 +1288,7 @@
       "file_type": "code",
       "norm_label": "dependencies",
       "source_file": "package.json",
-      "source_location": "L11"
+      "source_location": "L12"
     },
     {
       "id": "package_dependencies_react",
@@ -1232,7 +1299,7 @@
       "file_type": "code",
       "norm_label": "react",
       "source_file": "package.json",
-      "source_location": "L12"
+      "source_location": "L13"
     },
     {
       "id": "package_dependencies_react_dom",
@@ -1243,7 +1310,7 @@
       "file_type": "code",
       "norm_label": "react-dom",
       "source_file": "package.json",
-      "source_location": "L13"
+      "source_location": "L14"
     },
     {
       "id": "package_name",
@@ -1301,6 +1368,17 @@
       "source_location": "L7"
     },
     {
+      "id": "package_scripts_gifs",
+      "label": "gifs",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "package.json",
+      "file_type": "code",
+      "norm_label": "gifs",
+      "source_file": "package.json",
+      "source_location": "L10"
+    },
+    {
       "id": "package_scripts_preview",
       "label": "preview",
       "_origin": "ast",
@@ -1342,7 +1420,7 @@
       "file_type": "concept",
       "norm_label": "react",
       "source_file": "package.json",
-      "source_location": "L12"
+      "source_location": "L13"
     },
     {
       "id": "react_dom",
@@ -1353,7 +1431,7 @@
       "file_type": "concept",
       "norm_label": "react-dom",
       "source_file": "package.json",
-      "source_location": "L13"
+      "source_location": "L14"
     },
     {
       "id": "claudedocs_02_2026_11_05_plano_6_meses_karla",
@@ -1832,6 +1910,18 @@
   ],
   "links": [
     {
+      "source": "src_components_treinocard_treinocard",
+      "target": "src_data_localgif_localgifpath",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "src/components/TreinoCard.tsx",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
       "source": "src_components_treinocard_props",
       "target": "src_data_types_treino",
       "relation": "references",
@@ -1840,7 +1930,7 @@
       "confidence_score": 1.0,
       "context": "field",
       "source_file": "src/components/TreinoCard.tsx",
-      "source_location": "L4",
+      "source_location": "L5",
       "weight": 1.0
     },
     {
@@ -1900,7 +1990,7 @@
       "confidence_score": 1.0,
       "context": "import",
       "source_file": "package.json",
-      "source_location": "L12",
+      "source_location": "L13",
       "weight": 1.0
     },
     {
@@ -1912,7 +2002,7 @@
       "confidence_score": 1.0,
       "context": "import",
       "source_file": "package.json",
-      "source_location": "L13",
+      "source_location": "L14",
       "weight": 1.0
     },
     {
@@ -1924,7 +2014,7 @@
       "confidence_score": 1.0,
       "context": "import",
       "source_file": "package.json",
-      "source_location": "L16",
+      "source_location": "L17",
       "weight": 1.0
     },
     {
@@ -1936,7 +2026,7 @@
       "confidence_score": 1.0,
       "context": "import",
       "source_file": "package.json",
-      "source_location": "L17",
+      "source_location": "L18",
       "weight": 1.0
     },
     {
@@ -1948,7 +2038,7 @@
       "confidence_score": 1.0,
       "context": "import",
       "source_file": "package.json",
-      "source_location": "L19",
+      "source_location": "L20",
       "weight": 1.0
     },
     {
@@ -1960,7 +2050,7 @@
       "confidence_score": 1.0,
       "context": "import",
       "source_file": "package.json",
-      "source_location": "L20",
+      "source_location": "L21",
       "weight": 1.0
     },
     {
@@ -1972,7 +2062,43 @@
       "confidence_score": 1.0,
       "context": "import",
       "source_file": "package.json",
-      "source_location": "L18",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_otimizar_gifs",
+      "target": "src_data_karla_gifs_gifs",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "scripts/otimizar-gifs.mts",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_otimizar_gifs",
+      "target": "src_data_vinicius_gifs_gifs",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "scripts/otimizar-gifs.mts",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_otimizar_gifs",
+      "target": "src_data_localgif_localgifpath",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "scripts/otimizar-gifs.mts",
+      "source_location": "L9",
       "weight": 1.0
     },
     {
@@ -1985,6 +2111,18 @@
       "context": "import",
       "source_file": "src/components/TreinoCard.tsx",
       "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_treinocard",
+      "target": "src_data_localgif_localgifpath",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "src/components/TreinoCard.tsx",
+      "source_location": "L2",
       "weight": 1.0
     },
     {
@@ -2120,6 +2258,42 @@
       "weight": 1.0
     },
     {
+      "source": "scripts_otimizar_gifs",
+      "target": "src_data_karla_gifs",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "scripts/otimizar-gifs.mts",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_otimizar_gifs",
+      "target": "src_data_vinicius_gifs",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "scripts/otimizar-gifs.mts",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_otimizar_gifs",
+      "target": "src_data_localgif",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "scripts/otimizar-gifs.mts",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
       "source": "src_app",
       "target": "src_pages_karla",
       "relation": "imports_from",
@@ -2154,6 +2328,18 @@
       "source_file": "src/components/TreinoCard.tsx",
       "source_location": "L1",
       "type_only": true,
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_treinocard",
+      "target": "src_data_localgif",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "src/components/TreinoCard.tsx",
+      "source_location": "L2",
       "weight": 1.0
     },
     {
@@ -2495,7 +2681,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L11",
+      "source_location": "L12",
       "weight": 1.0
     },
     {
@@ -2506,7 +2692,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L15",
+      "source_location": "L16",
       "weight": 1.0
     },
     {
@@ -2572,7 +2758,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L12",
+      "source_location": "L13",
       "weight": 1.0
     },
     {
@@ -2583,7 +2769,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L13",
+      "source_location": "L14",
       "weight": 1.0
     },
     {
@@ -2594,7 +2780,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L16",
+      "source_location": "L17",
       "weight": 1.0
     },
     {
@@ -2605,7 +2791,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L17",
+      "source_location": "L18",
       "weight": 1.0
     },
     {
@@ -2616,7 +2802,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L18",
+      "source_location": "L19",
       "weight": 1.0
     },
     {
@@ -2627,7 +2813,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L19",
+      "source_location": "L20",
       "weight": 1.0
     },
     {
@@ -2638,7 +2824,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "package.json",
-      "source_location": "L20",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "package_scripts",
+      "target": "package_scripts_gifs",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "package.json",
+      "source_location": "L10",
       "weight": 1.0
     },
     {
@@ -2840,6 +3037,39 @@
       "weight": 1.0
     },
     {
+      "source": "scripts_otimizar_gifs",
+      "target": "scripts_otimizar_gifs_saida",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/otimizar-gifs.mts",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_otimizar_gifs",
+      "target": "scripts_otimizar_gifs_tmp",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/otimizar-gifs.mts",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_otimizar_gifs",
+      "target": "scripts_otimizar_gifs_urls",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/otimizar-gifs.mts",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
       "source": "src_app",
       "target": "src_app_paginas",
       "relation": "contains",
@@ -2869,7 +3099,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "src/components/TreinoCard.tsx",
-      "source_location": "L3",
+      "source_location": "L4",
       "weight": 1.0
     },
     {
@@ -2880,7 +3110,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "src/components/TreinoCard.tsx",
-      "source_location": "L7",
+      "source_location": "L8",
       "weight": 1.0
     },
     {
@@ -2903,6 +3133,17 @@
       "confidence_score": 1.0,
       "source_file": "src/data/karla/treinos.ts",
       "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_data_localgif",
+      "target": "src_data_localgif_localgifpath",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/data/localGif.ts",
+      "source_location": "L1",
       "weight": 1.0
     },
     {
@@ -3569,5 +3810,5 @@
       "source_file": "CLAUDE.md"
     }
   ],
-  "built_at_commit": "8470316e21d5198eaeede1782bf079a92f31e752"
+  "built_at_commit": "ef01e79cb60b21c22fed3c9bd1b7321c6c81ff52"
 }
