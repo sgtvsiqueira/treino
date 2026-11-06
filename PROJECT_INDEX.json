@@ -1,0 +1,22 @@
+{
+  "name": "treino",
+  "generated": "2026-11-06",
+  "stack": ["react@18", "vite@6", "typescript@6", "vercel"],
+  "entry_points": {"app": "src/main.tsx", "root_component": "src/App.tsx"},
+  "routes": [
+    {"path": "/", "page": "src/pages/Karla.tsx"},
+    {"path": "/vinicius", "page": "src/pages/Vinicius.tsx"}
+  ],
+  "modules": [
+    {"path": "src/data/types.ts", "exports": ["Exercicio", "Treino"]},
+    {"path": "src/data/karla/treinos.ts", "exports": ["treinos"], "notes": "Fase 1, treinos A-F, 33 exercicios"},
+    {"path": "src/data/karla/gifs.ts", "exports": ["gifs"], "notes": "~52 URLs de GIFs"},
+    {"path": "src/data/vinicius/treinos.ts", "exports": ["treinos"], "notes": "vazio"},
+    {"path": "src/components/TreinoCard.tsx", "exports": ["default TreinoCard"]}
+  ],
+  "config": ["package.json", "tsconfig.json", "vite.config.ts", "vercel.json"],
+  "docs": ["claudedocs/01 - 2026-11-02-livros-hipertrofia-avancada.md", "claudedocs/02 - 2026-11-05-plano-6-meses-karla.md", "rotinas/rotina-montar-fase.md", "Treinos/Karla/*.md"],
+  "assets": {"public/gifs": 24},
+  "tests": 0,
+  "scripts": {"dev": "vite", "build": "vite build", "preview": "vite preview"}
+}

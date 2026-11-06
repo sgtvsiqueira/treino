@@ -1,22 +1,22 @@
-# Graph Report - treino_karla  (2026-11-06)
+# Graph Report - treino  (2026-11-06)
 
 ## Corpus Check
-- 25 files · ~353,638 words
+- 29 files · ~356,304 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 134 nodes · 128 edges · 22 communities (12 shown, 6 thin omitted)
-- Extraction: 98% EXTRACTED · 2% INFERRED · 0% AMBIGUOUS · INFERRED: 2 edges (avg confidence: 0.85)
+- 157 nodes · 153 edges · 24 communities (14 shown, 6 thin omitted)
+- Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 2 edges (avg confidence: 0.85)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `2080785c`
+- Built from commit: `8470316e`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
 ## Community Hubs (Navigation)
 - compilerOptions
-- App.tsx
+- vinicius/treinos.ts
 - devDependencies
 - package.json
 - Plano de 6 meses — Karla Terra (Glúteos e Pernas)
@@ -33,18 +33,20 @@
 - Nova Ficha de Treino — Periodização Híbrida (Glúteo + Superiores fundidos + Core 3x)
 - Rotina automática — montar a próxima fase do plano de 6 meses da Karla
 - vercel.json
+- Project Index: treino
+- Divisão da semana
 
 ## God Nodes (most connected - your core abstractions)
 1. `compilerOptions` - 13 edges
 2. `Plano de 6 meses — Karla Terra (Glúteos e Pernas)` - 11 edges
-3. `Fase 1 — Base (16/11 → 20/12)` - 7 edges
-4. `Nova Ficha de Treino — Periodização Híbrida (Glúteo + Superiores fundidos + Core 3x)` - 7 edges
-5. `Melhores livros para treinos de hipertrofia avançados` - 7 edges
-6. `Rotina automática — montar a próxima fase do plano de 6 meses da Karla` - 6 edges
-7. `Treino` - 5 edges
-8. `scripts` - 4 edges
-9. `lib` - 4 edges
-10. `TreinoCard()` - 3 edges
+3. `Project Index: treino` - 9 edges
+4. `Fase 1 — Base (16/11 → 20/12)` - 7 edges
+5. `Nova Ficha de Treino — Periodização Híbrida (Glúteo + Superiores fundidos + Core 3x)` - 7 edges
+6. `Divisão da semana` - 7 edges
+7. `Melhores livros para treinos de hipertrofia avançados` - 7 edges
+8. `Rotina automática — montar a próxima fase do plano de 6 meses da Karla` - 6 edges
+9. `Treino` - 5 edges
+10. `scripts` - 4 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `Goblet Squat GIF` --references--> `Treino 14-07-2026`  [EXTRACTED]
@@ -65,15 +67,15 @@
 - **Exercise Visual Demonstrations** — public_gifs_plank, public_gifs_reverse_lunge, public_gifs_skull_crusher, public_gifs_wide_grip_lat_pulldown [EXTRACTED 1.00]
 - **Karla Terra Training Evolution** — treinos_karla_treino_08_03_2026, treinos_karla_treino_31_04_2026, treinos_karla_treino_15_05_2026, treinos_karla_treino_14_07_2026, treinos_karla_treino_14_07_2026_v2_revisado [EXTRACTED 1.00]
 
-## Communities (22 total, 6 thin omitted)
+## Communities (24 total, 6 thin omitted)
 
 ### Community 0 - "compilerOptions"
 Cohesion: 0.11
 Nodes (18): DOM, DOM.Iterable, ES2020, src, compilerOptions, allowImportingTsExtensions, isolatedModules, jsx (+10 more)
 
-### Community 1 - "App.tsx"
-Cohesion: 0.18
-Nodes (11): App(), paginas, Props, TreinoCard(), gifs, treinos, Exercicio, Treino (+3 more)
+### Community 1 - "vinicius/treinos.ts"
+Cohesion: 0.16
+Nodes (12): App(), paginas, Props, TreinoCard(), gifs, treinos, Exercicio, Treino (+4 more)
 
 ### Community 2 - "devDependencies"
 Cohesion: 0.18
@@ -115,18 +117,26 @@ Nodes (7): Nova Ficha de Treino — Periodização Híbrida (Glúteo + Superiore
 Cohesion: 0.29
 Nodes (6): Dados de cada fase, Fontes obrigatórias (ler antes de montar), Passos, Regras de montagem, Rotina automática — montar a próxima fase do plano de 6 meses da Karla, Se der errado
 
+### Community 22 - "Project Index: treino"
+Cohesion: 0.20
+Nodes (9): Automação, Dependências, Documentação, Estrutura, Início rápido, Módulos principais, Pontos de entrada, Project Index: treino (+1 more)
+
+### Community 23 - "Divisão da semana"
+Cohesion: 0.20
+Nodes (9): Como progredir, Divisão da semana, Ficha de Treino — Bloco 1 (Superior, 6x/semana), Treino A — Segunda · Push 1: Peito + Ombro + Tríceps, Treino B — Terça · Pull 1: Costas (largura) + Bíceps, Treino C — Quarta · Ombros + Braços 1 + Abdômen, Treino D — Quinta · Push 2: Peito superior + Tríceps, Treino E — Sexta · Pull 2: Costas (espessura) + Bíceps (+1 more)
+
 ## Knowledge Gaps
-- **81 isolated node(s):** `name`, `private`, `version`, `type`, `dev` (+76 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 90 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **95 isolated node(s):** `name`, `private`, `version`, `type`, `dev` (+90 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 107 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **6 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `devDependencies` connect `devDependencies` to `package.json`?**
-  _High betweenness centrality (0.021) - this node is a cross-community bridge._
+  _High betweenness centrality (0.015) - this node is a cross-community bridge._
 - **What connects `name`, `private`, `version` to the rest of the system?**
-  _81 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _95 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `compilerOptions` be split into smaller, more focused modules?**
   _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._
 - **Should `package.json` be split into smaller, more focused modules?**

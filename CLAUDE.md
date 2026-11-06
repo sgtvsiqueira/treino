@@ -70,3 +70,7 @@ Treinos do Vinicius: `Treinos/Vinicius/` e `src/data/vinicius/treinos.ts`.
 - Deload na semana 9 de cada bloco (−50% volume, −20–30% carga)
 - Sem arquivos HTML de treino — usar apenas `.md` + React/TypeScript
 - GIFs vêm de `fitnessprogramer.com` ou `inspireusafoundation.org`
+
+## Índice do repositório
+
+Para visão geral do projeto (estrutura, módulos, rotas), ler `PROJECT_INDEX.md` antes de explorar os arquivos.
