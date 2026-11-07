@@ -14,6 +14,7 @@ export const gifs = {
   pullUp: `${B}/2021/02/Pull-up.gif`,
   barbellRow: `${B}/2021/02/Barbell-Bent-Over-Row.gif`,
   closeGripLatPulldown: `${B}/2021/06/Close-Grip-Lat-Pulldown.gif`,
+  leverTBarRow: `${B}/2021/02/Lever-T-bar-Row.gif`,
   tBarRow: `${B}/2021/04/t-bar-rows.gif`,
 
   // Ombros e trapézio
