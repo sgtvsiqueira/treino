@@ -270,9 +270,9 @@
     "semantic_hash": ""
   },
   "src/data/vinicius/treinos.ts": {
-    "mtime": 1793975711.5886667,
-    "seen": 1793975723.1693616,
-    "ast_hash": "cab525802687905298453c3fff0b7e80",
+    "mtime": 1793977049.5960577,
+    "seen": 1793977166.6877594,
+    "ast_hash": "01bc3b658ad049b07623473c09f3ee72",
     "semantic_hash": ""
   },
   "src/pages/Karla.tsx": {
@@ -282,9 +282,9 @@
     "semantic_hash": ""
   },
   "src/pages/Vinicius.tsx": {
-    "mtime": 1793974309.4097354,
-    "seen": 1793974345.0698242,
-    "ast_hash": "254a3c7710bdd4576d984ba6573273a8",
+    "mtime": 1793977140.0021307,
+    "seen": 1793977166.6877646,
+    "ast_hash": "744d2cd45df7cee5a5ecda6fb1fa6f7e",
     "semantic_hash": ""
   },
   "src/vite-env.d.ts": {
@@ -300,9 +300,9 @@
     "semantic_hash": ""
   },
   "rotinas/rotina-montar-fase.md": {
-    "mtime": 1793974336.5747104,
-    "seen": 1793974345.0698519,
-    "ast_hash": "dff5580f5f4efe40eee059c2ffdf00b1",
+    "mtime": 1793977129.005122,
+    "seen": 1793977166.6877913,
+    "ast_hash": "8a53e1c09c82f817cd67b319f72cbbfd",
     "semantic_hash": ""
   },
   "PROJECT_INDEX.json": {
@@ -324,9 +324,9 @@
     "semantic_hash": ""
   },
   "Treinos/Vinicius/treino-09-11-2026.md": {
-    "mtime": 1793975890.1387289,
-    "seen": 1793976301.2098927,
-    "ast_hash": "59ddb8df75f11e7185f7dde5ffa9ddfd",
+    "mtime": 1793977059.1210654,
+    "seen": 1793977166.6877837,
+    "ast_hash": "806b9c9da921a5419db5792123a123ab",
     "semantic_hash": ""
   },
   "scripts/otimizar-gifs.mts": {
@@ -759,6 +759,18 @@
     "mtime": 1793976265.8041778,
     "seen": 1793976301.2101228,
     "ast_hash": "e10205aa4abb1ee0711b94f7848eebfe",
+    "semantic_hash": ""
+  },
+  "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md": {
+    "mtime": 1793977090.2180908,
+    "seen": 1793977166.6877878,
+    "ast_hash": "d0fb1e102ae77720a23b125712d39e5e",
+    "semantic_hash": ""
+  },
+  "rotinas/rotina-montar-bloco-vinicius.md": {
+    "mtime": 1793977123.0171173,
+    "seen": 1793977166.6877904,
+    "ast_hash": "1edd62e583ee1cabb97aa8be33c46c1d",
     "semantic_hash": ""
   }
 }

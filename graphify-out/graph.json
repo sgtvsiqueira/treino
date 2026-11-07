@@ -1082,7 +1082,7 @@
       "node_kind": "heading",
       "norm_label": "como progredir",
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L13"
+      "source_location": "L19"
     },
     {
       "id": "treinos_vinicius_treino_09_11_2026_divis\u00e3o_da_semana",
@@ -1094,7 +1094,7 @@
       "node_kind": "heading",
       "norm_label": "divisao da semana",
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L24"
+      "source_location": "L30"
     },
     {
       "id": "treinos_vinicius_treino_09_11_2026_ficha_de_treino_bloco_1_superior_6x_semana",
@@ -1118,7 +1118,7 @@
       "node_kind": "heading",
       "norm_label": "treino a \u2014 segunda \u00b7 push 1: peito + ombro + triceps",
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L40"
+      "source_location": "L46"
     },
     {
       "id": "treinos_vinicius_treino_09_11_2026_treino_b_ter\u00e7a_pull_1_costas_largura_b\u00edceps",
@@ -1130,7 +1130,7 @@
       "node_kind": "heading",
       "norm_label": "treino b \u2014 terca \u00b7 pull 1: costas (largura) + biceps",
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L51"
+      "source_location": "L57"
     },
     {
       "id": "treinos_vinicius_treino_09_11_2026_treino_c_quarta_ombros_bra\u00e7os_1_abd\u00f4men",
@@ -1142,7 +1142,7 @@
       "node_kind": "heading",
       "norm_label": "treino c \u2014 quarta \u00b7 ombros + bracos 1 + abdomen",
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L61"
+      "source_location": "L67"
     },
     {
       "id": "treinos_vinicius_treino_09_11_2026_treino_d_quinta_push_2_peito_superior_tr\u00edceps",
@@ -1154,7 +1154,7 @@
       "node_kind": "heading",
       "norm_label": "treino d \u2014 quinta \u00b7 push 2: peito superior + triceps",
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L73"
+      "source_location": "L79"
     },
     {
       "id": "treinos_vinicius_treino_09_11_2026_treino_e_sexta_pull_2_costas_espessura_b\u00edceps",
@@ -1166,7 +1166,7 @@
       "node_kind": "heading",
       "norm_label": "treino e \u2014 sexta \u00b7 pull 2: costas (espessura) + biceps",
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L83"
+      "source_location": "L89"
     },
     {
       "id": "treinos_vinicius_treino_09_11_2026_treino_f_s\u00e1bado_ombros_bra\u00e7os_2_trap\u00e9zio_abd\u00f4men",
@@ -1178,7 +1178,7 @@
       "node_kind": "heading",
       "norm_label": "treino f \u2014 sabado \u00b7 ombros + bracos 2 + trapezio + abdomen",
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L93"
+      "source_location": "L99"
     },
     {
       "id": "scripts_otimizar_gifs",
@@ -1267,6 +1267,234 @@
       "norm_label": "gifs",
       "source_file": "src/data/vinicius/gifs.ts",
       "source_location": "L5"
+    },
+    {
+      "id": "claudedocs_03_2026_11_06_plano_carnaval_vinicius",
+      "label": "03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Plano at\u00e9 o Carnaval \u2014 Vinicius Siqueira (Superior, 6x/semana)",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_1_perfil_e_premissas",
+      "label": "1. Perfil e premissas",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Plano at\u00e9 o Carnaval \u2014 Vinicius Siqueira (Superior, 6x/semana)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1. perfil e premissas",
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L29"
+    },
+    {
+      "id": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_2_regras_fixas_todo_o_plano",
+      "label": "2. Regras fixas (todo o plano)",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Plano at\u00e9 o Carnaval \u2014 Vinicius Siqueira (Superior, 6x/semana)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2. regras fixas (todo o plano)",
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L35"
+    },
+    {
+      "id": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_3_cronograma",
+      "label": "3. Cronograma",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Plano at\u00e9 o Carnaval \u2014 Vinicius Siqueira (Superior, 6x/semana)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3. cronograma",
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L44"
+    },
+    {
+      "id": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_4_volume_por_bloco_s\u00e9ries_diretas_semana_in\u00edcio_fim",
+      "label": "4. Volume por bloco (s\u00e9ries diretas/semana, in\u00edcio \u2192 fim)",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Plano at\u00e9 o Carnaval \u2014 Vinicius Siqueira (Superior, 6x/semana)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "4. volume por bloco (series diretas/semana, inicio \u2192 fim)",
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L58"
+    },
+    {
+      "id": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_5_monitoramento",
+      "label": "5. Monitoramento",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Plano at\u00e9 o Carnaval \u2014 Vinicius Siqueira (Superior, 6x/semana)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "5. monitoramento",
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L73"
+    },
+    {
+      "id": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_6_depois_do_carnaval",
+      "label": "6. Depois do Carnaval",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Plano at\u00e9 o Carnaval \u2014 Vinicius Siqueira (Superior, 6x/semana)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "6. depois do carnaval",
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L77"
+    },
+    {
+      "id": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_7_alimenta\u00e7\u00e3o_recomenda\u00e7\u00e3o_opcional_cap_9",
+      "label": "7. Alimenta\u00e7\u00e3o (recomenda\u00e7\u00e3o, opcional) \u2014 cap. 9",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Plano at\u00e9 o Carnaval \u2014 Vinicius Siqueira (Superior, 6x/semana)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "7. alimentacao (recomendacao, opcional) \u2014 cap. 9",
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L80"
+    },
+    {
+      "id": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_8_automa\u00e7\u00e3o",
+      "label": "8. Automa\u00e7\u00e3o",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Plano at\u00e9 o Carnaval \u2014 Vinicius Siqueira (Superior, 6x/semana)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "8. automacao",
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L87"
+    },
+    {
+      "id": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_9_registro_da_automa\u00e7\u00e3o",
+      "label": "9. Registro da automa\u00e7\u00e3o",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Plano at\u00e9 o Carnaval \u2014 Vinicius Siqueira (Superior, 6x/semana)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "9. registro da automacao",
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L92"
+    },
+    {
+      "id": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_plano_at\u00e9_o_carnaval_vinicius_siqueira_superior_6x_semana",
+      "label": "Plano at\u00e9 o Carnaval \u2014 Vinicius Siqueira (Superior, 6x/semana)",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Plano at\u00e9 o Carnaval \u2014 Vinicius Siqueira (Superior, 6x/semana)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "plano ate o carnaval \u2014 vinicius siqueira (superior, 6x/semana)",
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_resumo_did\u00e1tico",
+      "label": "Resumo Did\u00e1tico",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Plano at\u00e9 o Carnaval \u2014 Vinicius Siqueira (Superior, 6x/semana)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "resumo didatico",
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L3"
+    },
+    {
+      "id": "rotinas_rotina_montar_bloco_vinicius",
+      "label": "rotina-montar-bloco-vinicius.md",
+      "_origin": "ast",
+      "community": 26,
+      "community_name": "Rotina autom\u00e1tica \u2014 montar o pr\u00f3ximo bloco do plano at\u00e9 o Carnaval do Vinicius",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "rotina-montar-bloco-vinicius.md",
+      "source_file": "rotinas/rotina-montar-bloco-vinicius.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "rotinas_rotina_montar_bloco_vinicius_dados_de_cada_bloco",
+      "label": "Dados de cada bloco",
+      "_origin": "ast",
+      "community": 26,
+      "community_name": "Rotina autom\u00e1tica \u2014 montar o pr\u00f3ximo bloco do plano at\u00e9 o Carnaval do Vinicius",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "dados de cada bloco",
+      "source_file": "rotinas/rotina-montar-bloco-vinicius.md",
+      "source_location": "L6"
+    },
+    {
+      "id": "rotinas_rotina_montar_bloco_vinicius_fontes_obrigat\u00f3rias_ler_antes_de_montar",
+      "label": "Fontes obrigat\u00f3rias (ler antes de montar)",
+      "_origin": "ast",
+      "community": 26,
+      "community_name": "Rotina autom\u00e1tica \u2014 montar o pr\u00f3ximo bloco do plano at\u00e9 o Carnaval do Vinicius",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "fontes obrigatorias (ler antes de montar)",
+      "source_file": "rotinas/rotina-montar-bloco-vinicius.md",
+      "source_location": "L13"
+    },
+    {
+      "id": "rotinas_rotina_montar_bloco_vinicius_passos",
+      "label": "Passos",
+      "_origin": "ast",
+      "community": 26,
+      "community_name": "Rotina autom\u00e1tica \u2014 montar o pr\u00f3ximo bloco do plano at\u00e9 o Carnaval do Vinicius",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "passos",
+      "source_file": "rotinas/rotina-montar-bloco-vinicius.md",
+      "source_location": "L30"
+    },
+    {
+      "id": "rotinas_rotina_montar_bloco_vinicius_regras_de_montagem",
+      "label": "Regras de montagem",
+      "_origin": "ast",
+      "community": 26,
+      "community_name": "Rotina autom\u00e1tica \u2014 montar o pr\u00f3ximo bloco do plano at\u00e9 o Carnaval do Vinicius",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "regras de montagem",
+      "source_file": "rotinas/rotina-montar-bloco-vinicius.md",
+      "source_location": "L19"
+    },
+    {
+      "id": "rotinas_rotina_montar_bloco_vinicius_rotina_autom\u00e1tica_montar_o_pr\u00f3ximo_bloco_do_plano_at\u00e9_o_carnaval_do_vinicius",
+      "label": "Rotina autom\u00e1tica \u2014 montar o pr\u00f3ximo bloco do plano at\u00e9 o Carnaval do Vinicius",
+      "_origin": "ast",
+      "community": 26,
+      "community_name": "Rotina autom\u00e1tica \u2014 montar o pr\u00f3ximo bloco do plano at\u00e9 o Carnaval do Vinicius",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "rotina automatica \u2014 montar o proximo bloco do plano ate o carnaval do vinicius",
+      "source_file": "rotinas/rotina-montar-bloco-vinicius.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "rotinas_rotina_montar_bloco_vinicius_se_der_errado",
+      "label": "Se der errado",
+      "_origin": "ast",
+      "community": 26,
+      "community_name": "Rotina autom\u00e1tica \u2014 montar o pr\u00f3ximo bloco do plano at\u00e9 o Carnaval do Vinicius",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "se der errado",
+      "source_file": "rotinas/rotina-montar-bloco-vinicius.md",
+      "source_location": "L50"
     },
     {
       "id": "package",
@@ -2674,6 +2902,127 @@
       "weight": 1.0
     },
     {
+      "source": "claudedocs_03_2026_11_06_plano_carnaval_vinicius",
+      "target": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_plano_at\u00e9_o_carnaval_vinicius_siqueira_superior_6x_semana",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_plano_at\u00e9_o_carnaval_vinicius_siqueira_superior_6x_semana",
+      "target": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_1_perfil_e_premissas",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_plano_at\u00e9_o_carnaval_vinicius_siqueira_superior_6x_semana",
+      "target": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_resumo_did\u00e1tico",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_plano_at\u00e9_o_carnaval_vinicius_siqueira_superior_6x_semana",
+      "target": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_2_regras_fixas_todo_o_plano",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_plano_at\u00e9_o_carnaval_vinicius_siqueira_superior_6x_semana",
+      "target": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_3_cronograma",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_plano_at\u00e9_o_carnaval_vinicius_siqueira_superior_6x_semana",
+      "target": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_4_volume_por_bloco_s\u00e9ries_diretas_semana_in\u00edcio_fim",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L58",
+      "weight": 1.0
+    },
+    {
+      "source": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_plano_at\u00e9_o_carnaval_vinicius_siqueira_superior_6x_semana",
+      "target": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_5_monitoramento",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L73",
+      "weight": 1.0
+    },
+    {
+      "source": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_plano_at\u00e9_o_carnaval_vinicius_siqueira_superior_6x_semana",
+      "target": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_6_depois_do_carnaval",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L77",
+      "weight": 1.0
+    },
+    {
+      "source": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_plano_at\u00e9_o_carnaval_vinicius_siqueira_superior_6x_semana",
+      "target": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_7_alimenta\u00e7\u00e3o_recomenda\u00e7\u00e3o_opcional_cap_9",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L80",
+      "weight": 1.0
+    },
+    {
+      "source": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_plano_at\u00e9_o_carnaval_vinicius_siqueira_superior_6x_semana",
+      "target": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_8_automa\u00e7\u00e3o",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L87",
+      "weight": 1.0
+    },
+    {
+      "source": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_plano_at\u00e9_o_carnaval_vinicius_siqueira_superior_6x_semana",
+      "target": "claudedocs_03_2026_11_06_plano_carnaval_vinicius_9_registro_da_automa\u00e7\u00e3o",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "claudedocs/03 - 2026-11-06-plano-carnaval-vinicius.md",
+      "source_location": "L92",
+      "weight": 1.0
+    },
+    {
       "source": "package",
       "target": "package_dependencies",
       "relation": "contains",
@@ -2968,6 +3317,72 @@
       "confidence_score": 1.0,
       "source_file": "PROJECT_INDEX.md",
       "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "rotinas_rotina_montar_bloco_vinicius",
+      "target": "rotinas_rotina_montar_bloco_vinicius_rotina_autom\u00e1tica_montar_o_pr\u00f3ximo_bloco_do_plano_at\u00e9_o_carnaval_do_vinicius",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "rotinas/rotina-montar-bloco-vinicius.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "rotinas_rotina_montar_bloco_vinicius_rotina_autom\u00e1tica_montar_o_pr\u00f3ximo_bloco_do_plano_at\u00e9_o_carnaval_do_vinicius",
+      "target": "rotinas_rotina_montar_bloco_vinicius_fontes_obrigat\u00f3rias_ler_antes_de_montar",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "rotinas/rotina-montar-bloco-vinicius.md",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "rotinas_rotina_montar_bloco_vinicius_rotina_autom\u00e1tica_montar_o_pr\u00f3ximo_bloco_do_plano_at\u00e9_o_carnaval_do_vinicius",
+      "target": "rotinas_rotina_montar_bloco_vinicius_regras_de_montagem",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "rotinas/rotina-montar-bloco-vinicius.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "rotinas_rotina_montar_bloco_vinicius_rotina_autom\u00e1tica_montar_o_pr\u00f3ximo_bloco_do_plano_at\u00e9_o_carnaval_do_vinicius",
+      "target": "rotinas_rotina_montar_bloco_vinicius_passos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "rotinas/rotina-montar-bloco-vinicius.md",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "rotinas_rotina_montar_bloco_vinicius_rotina_autom\u00e1tica_montar_o_pr\u00f3ximo_bloco_do_plano_at\u00e9_o_carnaval_do_vinicius",
+      "target": "rotinas_rotina_montar_bloco_vinicius_se_der_errado",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "rotinas/rotina-montar-bloco-vinicius.md",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "rotinas_rotina_montar_bloco_vinicius_rotina_autom\u00e1tica_montar_o_pr\u00f3ximo_bloco_do_plano_at\u00e9_o_carnaval_do_vinicius",
+      "target": "rotinas_rotina_montar_bloco_vinicius_dados_de_cada_bloco",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "rotinas/rotina-montar-bloco-vinicius.md",
+      "source_location": "L6",
       "weight": 1.0
     },
     {
@@ -3418,7 +3833,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L40",
+      "source_location": "L46",
       "weight": 1.0
     },
     {
@@ -3429,7 +3844,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L51",
+      "source_location": "L57",
       "weight": 1.0
     },
     {
@@ -3440,7 +3855,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L61",
+      "source_location": "L67",
       "weight": 1.0
     },
     {
@@ -3451,7 +3866,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L73",
+      "source_location": "L79",
       "weight": 1.0
     },
     {
@@ -3462,7 +3877,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L83",
+      "source_location": "L89",
       "weight": 1.0
     },
     {
@@ -3473,7 +3888,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L93",
+      "source_location": "L99",
       "weight": 1.0
     },
     {
@@ -3484,7 +3899,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L13",
+      "source_location": "L19",
       "weight": 1.0
     },
     {
@@ -3495,7 +3910,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Treinos/Vinicius/treino-09-11-2026.md",
-      "source_location": "L24",
+      "source_location": "L30",
       "weight": 1.0
     },
     {
@@ -3810,5 +4225,5 @@
       "source_file": "CLAUDE.md"
     }
   ],
-  "built_at_commit": "ef01e79cb60b21c22fed3c9bd1b7321c6c81ff52"
+  "built_at_commit": "a2cbbb410a572cc74d2f77b375a42f7ccbfdc05e"
 }

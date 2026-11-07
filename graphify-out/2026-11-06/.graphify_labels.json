@@ -1,6 +1,6 @@
 {
   "0": "compilerOptions",
-  "1": "vinicius/treinos.ts",
+  "1": "TreinoCard.tsx",
   "2": "devDependencies",
   "3": "package.json",
   "4": "Plano de 6 meses — Karla Terra (Glúteos e Pernas)",
@@ -22,5 +22,6 @@
   "20": "vercel.json",
   "21": "vite-env.d.ts",
   "22": "Project Index: treino",
-  "23": "Divisão da semana"
+  "23": "Divisão da semana",
+  "24": "otimizar-gifs.mts"
 }

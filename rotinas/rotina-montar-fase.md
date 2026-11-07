@@ -38,10 +38,10 @@ Fases de 4 semanas de treino. A progressão de volume dentro da fase acontece na
 5. Reescreva `src/data/karla/treinos.ts` com os treinos A–F da fase. Mantenha as interfaces `Exercicio` e `Treino` (em `src/data/types.ts`) intactas. Na `tecnica` de cada exercício que ganha série nas semanas 3-4, escreva "Sem. 3-4: ...".
 6. Atualize `src/pages/Karla.tsx`: `header-meta` da fase ("Fase N · <Nome> · <início> → <fim>"), linha de deloads (deload em curso e o seguinte), chips, legenda (manter as regras de pirâmide e dupla progressão; atualizar a linha "Semana ... = deload ... A Fase N começa em ...") e rodapé ("Fase N de 5 · <início> → <fim>").
 7. No `claudedocs/02 ...`, seção 6, acrescente uma linha: "Fase N montada automaticamente em <data de hoje>: `Treinos/Karla/<arquivo>`".
-8. `npm run build`. Precisa terminar sem erro.
+8. `npm run gifs` (cópias leves dos GIFs novos em `public/gifs/`) e depois `npm run build`. Precisa terminar sem erro.
 9. `graphify update .` (pode falhar sem bloquear).
 10. `git add -A`, commit `feat: Fase N (<Nome>) do plano de 6 meses — <início>` com a linha `Co-Authored-By: Claude <noreply@anthropic.com>`, e `git push`.
-11. Confira o deploy: em `gh api repos/sgtvsiqueira/treino-karla/deployments` ache o deploy do SHA do commit e espere (até ~3 min, checando a cada 15s) o status `success`. Depois confirme que o bundle JS de `https://treinokarla.vercel.app` contém o texto "Fase N".
+11. Confira o deploy: em `gh api repos/sgtvsiqueira/treino/deployments` ache o deploy do SHA do commit e espere (até ~3 min, checando a cada 15s) o status `success`. Depois confirme que o bundle JS de `https://treinokarla.vercel.app` contém o texto "Fase N".
 12. Envie um resumo pelo WhatsApp: `~/scripts/whatsapp-send.sh texto "<mensagem>"`. A mensagem, em português, tem no máximo ~15 linhas:
     - "Treino Karla: Fase N (<Nome>) publicada em treinokarla.vercel.app"
     - o lembrete do deload em curso, com datas, e o dia em que a fase começa;

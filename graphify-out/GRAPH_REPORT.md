@@ -1,16 +1,16 @@
 # Graph Report - treino  (2026-11-06)
 
 ## Corpus Check
-- 31 files · ~467,890 words
+- 33 files · ~470,290 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 164 nodes · 167 edges · 25 communities (15 shown, 6 thin omitted)
+- 183 nodes · 184 edges · 27 communities (17 shown, 6 thin omitted)
 - Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 2 edges (avg confidence: 0.85)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `ef01e79c`
+- Built from commit: `a2cbbb41`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -36,18 +36,20 @@
 - Project Index: treino
 - Divisão da semana
 - otimizar-gifs.mts
+- Plano até o Carnaval — Vinicius Siqueira (Superior, 6x/semana)
+- Rotina automática — montar o próximo bloco do plano até o Carnaval do Vinicius
 
 ## God Nodes (most connected - your core abstractions)
 1. `compilerOptions` - 13 edges
 2. `Plano de 6 meses — Karla Terra (Glúteos e Pernas)` - 11 edges
-3. `Project Index: treino` - 9 edges
-4. `Fase 1 — Base (16/11 → 20/12)` - 7 edges
-5. `Nova Ficha de Treino — Periodização Híbrida (Glúteo + Superiores fundidos + Core 3x)` - 7 edges
-6. `Divisão da semana` - 7 edges
-7. `Melhores livros para treinos de hipertrofia avançados` - 7 edges
-8. `Rotina automática — montar a próxima fase do plano de 6 meses da Karla` - 6 edges
-9. `scripts` - 5 edges
-10. `Treino` - 5 edges
+3. `Plano até o Carnaval — Vinicius Siqueira (Superior, 6x/semana)` - 11 edges
+4. `Project Index: treino` - 9 edges
+5. `Fase 1 — Base (16/11 → 20/12)` - 7 edges
+6. `Nova Ficha de Treino — Periodização Híbrida (Glúteo + Superiores fundidos + Core 3x)` - 7 edges
+7. `Divisão da semana` - 7 edges
+8. `Melhores livros para treinos de hipertrofia avançados` - 7 edges
+9. `Rotina automática — montar o próximo bloco do plano até o Carnaval do Vinicius` - 6 edges
+10. `Rotina automática — montar a próxima fase do plano de 6 meses da Karla` - 6 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `Goblet Squat GIF` --references--> `Treino 14-07-2026`  [EXTRACTED]
@@ -68,7 +70,7 @@
 - **Exercise Visual Demonstrations** — public_gifs_plank, public_gifs_reverse_lunge, public_gifs_skull_crusher, public_gifs_wide_grip_lat_pulldown [EXTRACTED 1.00]
 - **Karla Terra Training Evolution** — treinos_karla_treino_08_03_2026, treinos_karla_treino_31_04_2026, treinos_karla_treino_15_05_2026, treinos_karla_treino_14_07_2026, treinos_karla_treino_14_07_2026_v2_revisado [EXTRACTED 1.00]
 
-## Communities (25 total, 6 thin omitted)
+## Communities (27 total, 6 thin omitted)
 
 ### Community 0 - "compilerOptions"
 Cohesion: 0.11
@@ -130,18 +132,26 @@ Nodes (9): Como progredir, Divisão da semana, Ficha de Treino — Bloco 1 (Supe
 Cohesion: 0.39
 Nodes (5): saida, tmp, urls, gifs, gifs
 
+### Community 25 - "Plano até o Carnaval — Vinicius Siqueira (Superior, 6x/semana)"
+Cohesion: 0.17
+Nodes (11): 1. Perfil e premissas, 2. Regras fixas (todo o plano), 3. Cronograma, 4. Volume por bloco (séries diretas/semana, início → fim), 5. Monitoramento, 6. Depois do Carnaval, 7. Alimentação (recomendação, opcional) — cap. 9, 8. Automação (+3 more)
+
+### Community 26 - "Rotina automática — montar o próximo bloco do plano até o Carnaval do Vinicius"
+Cohesion: 0.29
+Nodes (6): Dados de cada bloco, Fontes obrigatórias (ler antes de montar), Passos, Regras de montagem, Rotina automática — montar o próximo bloco do plano até o Carnaval do Vinicius, Se der errado
+
 ## Knowledge Gaps
-- **99 isolated node(s):** `name`, `private`, `version`, `type`, `dev` (+94 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 111 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **114 isolated node(s):** `name`, `private`, `version`, `type`, `dev` (+109 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 128 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **6 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `devDependencies` connect `devDependencies` to `package.json`?**
-  _High betweenness centrality (0.014) - this node is a cross-community bridge._
+  _High betweenness centrality (0.012) - this node is a cross-community bridge._
 - **What connects `name`, `private`, `version` to the rest of the system?**
-  _99 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _114 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `compilerOptions` be split into smaller, more focused modules?**
   _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._
 - **Should `package.json` be split into smaller, more focused modules?**

@@ -1,22 +1,22 @@
 # Graph Report - treino  (2026-11-06)
 
 ## Corpus Check
-- 29 files · ~356,304 words
+- 31 files · ~467,890 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 157 nodes · 153 edges · 24 communities (14 shown, 6 thin omitted)
+- 164 nodes · 167 edges · 25 communities (15 shown, 6 thin omitted)
 - Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 2 edges (avg confidence: 0.85)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `8470316e`
+- Built from commit: `ef01e79c`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
 ## Community Hubs (Navigation)
 - compilerOptions
-- vinicius/treinos.ts
+- TreinoCard.tsx
 - devDependencies
 - package.json
 - Plano de 6 meses — Karla Terra (Glúteos e Pernas)
@@ -35,6 +35,7 @@
 - vercel.json
 - Project Index: treino
 - Divisão da semana
+- otimizar-gifs.mts
 
 ## God Nodes (most connected - your core abstractions)
 1. `compilerOptions` - 13 edges
@@ -45,8 +46,8 @@
 6. `Divisão da semana` - 7 edges
 7. `Melhores livros para treinos de hipertrofia avançados` - 7 edges
 8. `Rotina automática — montar a próxima fase do plano de 6 meses da Karla` - 6 edges
-9. `Treino` - 5 edges
-10. `scripts` - 4 edges
+9. `scripts` - 5 edges
+10. `Treino` - 5 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `Goblet Squat GIF` --references--> `Treino 14-07-2026`  [EXTRACTED]
@@ -67,23 +68,23 @@
 - **Exercise Visual Demonstrations** — public_gifs_plank, public_gifs_reverse_lunge, public_gifs_skull_crusher, public_gifs_wide_grip_lat_pulldown [EXTRACTED 1.00]
 - **Karla Terra Training Evolution** — treinos_karla_treino_08_03_2026, treinos_karla_treino_31_04_2026, treinos_karla_treino_15_05_2026, treinos_karla_treino_14_07_2026, treinos_karla_treino_14_07_2026_v2_revisado [EXTRACTED 1.00]
 
-## Communities (24 total, 6 thin omitted)
+## Communities (25 total, 6 thin omitted)
 
 ### Community 0 - "compilerOptions"
 Cohesion: 0.11
 Nodes (18): DOM, DOM.Iterable, ES2020, src, compilerOptions, allowImportingTsExtensions, isolatedModules, jsx (+10 more)
 
-### Community 1 - "vinicius/treinos.ts"
-Cohesion: 0.16
-Nodes (12): App(), paginas, Props, TreinoCard(), gifs, treinos, Exercicio, Treino (+4 more)
+### Community 1 - "TreinoCard.tsx"
+Cohesion: 0.18
+Nodes (11): App(), paginas, Props, TreinoCard(), treinos, localGifPath(), Exercicio, Treino (+3 more)
 
 ### Community 2 - "devDependencies"
 Cohesion: 0.18
 Nodes (11): devDependencies, @types/react, @types/react-dom, typescript, vite, @vitejs/plugin-react, @types/react, @types/react-dom (+3 more)
 
 ### Community 3 - "package.json"
-Cohesion: 0.14
-Nodes (13): dependencies, react, react-dom, name, private, scripts, build, dev (+5 more)
+Cohesion: 0.13
+Nodes (14): dependencies, react, react-dom, name, private, scripts, build, dev (+6 more)
 
 ### Community 4 - "Plano de 6 meses — Karla Terra (Glúteos e Pernas)"
 Cohesion: 0.17
@@ -125,19 +126,23 @@ Nodes (9): Automação, Dependências, Documentação, Estrutura, Início rápid
 Cohesion: 0.20
 Nodes (9): Como progredir, Divisão da semana, Ficha de Treino — Bloco 1 (Superior, 6x/semana), Treino A — Segunda · Push 1: Peito + Ombro + Tríceps, Treino B — Terça · Pull 1: Costas (largura) + Bíceps, Treino C — Quarta · Ombros + Braços 1 + Abdômen, Treino D — Quinta · Push 2: Peito superior + Tríceps, Treino E — Sexta · Pull 2: Costas (espessura) + Bíceps (+1 more)
 
+### Community 24 - "otimizar-gifs.mts"
+Cohesion: 0.39
+Nodes (5): saida, tmp, urls, gifs, gifs
+
 ## Knowledge Gaps
-- **95 isolated node(s):** `name`, `private`, `version`, `type`, `dev` (+90 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 107 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **99 isolated node(s):** `name`, `private`, `version`, `type`, `dev` (+94 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 111 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **6 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `devDependencies` connect `devDependencies` to `package.json`?**
-  _High betweenness centrality (0.015) - this node is a cross-community bridge._
+  _High betweenness centrality (0.014) - this node is a cross-community bridge._
 - **What connects `name`, `private`, `version` to the rest of the system?**
-  _95 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _99 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `compilerOptions` be split into smaller, more focused modules?**
   _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._
 - **Should `package.json` be split into smaller, more focused modules?**
-  _Cohesion score 0.14285714285714285 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected._
